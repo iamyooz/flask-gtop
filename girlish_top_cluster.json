@@ -1,0 +1,4209 @@
+[
+    {
+        "date": "2022-05-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/81594/street_img_view162a609ff12521.jpg?",
+        "average_temperature": 17.3,
+        "temperature_difference": 12.8,
+        "cluster": 4
+    },
+    {
+        "date": "2022-05-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/81884/280.street_img_view162a6038c65e47.jpg?",
+        "average_temperature": 22.9,
+        "temperature_difference": 13.5,
+        "cluster": 4
+    },
+    {
+        "date": "2022-05-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/81917/280.street_img_view162a6018d90ff5.jpg?",
+        "average_temperature": 21.0,
+        "temperature_difference": 10.0,
+        "cluster": 8
+    },
+    {
+        "date": "2022-05-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/81901/280.street_img_view162a60308ad890.jpg?",
+        "average_temperature": 21.0,
+        "temperature_difference": 10.0,
+        "cluster": 8
+    },
+    {
+        "date": "2022-05-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/81895/280.street_img_view162a6034eb0537.jpg?",
+        "average_temperature": 21.0,
+        "temperature_difference": 10.0,
+        "cluster": 8
+    },
+    {
+        "date": "2022-05-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/81945/280.street_img_view1628f0d85a1c29.jpg?",
+        "average_temperature": 18.7,
+        "temperature_difference": 9.4,
+        "cluster": 8
+    },
+    {
+        "date": "2022-05-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82044/280.street_img_view162a5f9ac316a4.jpg?",
+        "average_temperature": 20.8,
+        "temperature_difference": 7.5,
+        "cluster": 2
+    },
+    {
+        "date": "2022-05-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82058/280.street_img_view162a186109e0de.jpg?",
+        "average_temperature": 20.7,
+        "temperature_difference": 13.0,
+        "cluster": 4
+    },
+    {
+        "date": "2022-06-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82097/280.street_img_view1629eb567a64dd.jpg?",
+        "average_temperature": 21.5,
+        "temperature_difference": 9.799999999999995,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82181/280.street_img_view162a01bcd06cc8.jpg?",
+        "average_temperature": 20.6,
+        "temperature_difference": 10.000000000000002,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82157/280.street_img_view1629eaac3b9ef1.jpg?",
+        "average_temperature": 20.6,
+        "temperature_difference": 10.000000000000002,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82245/280.street_img_view162a306322762b.jpg?20220609091941",
+        "average_temperature": 20.9,
+        "temperature_difference": 6.0,
+        "cluster": 2
+    },
+    {
+        "date": "2022-06-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82332/280.street_img_view162b28236f40c6.jpg?",
+        "average_temperature": 23.6,
+        "temperature_difference": 9.599999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82350/280.street_img_view162b27d5b17144.jpg?",
+        "average_temperature": 21.5,
+        "temperature_difference": 9.400000000000002,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82372/280.street_img_view162afd91d88441.jpg?20220620112115",
+        "average_temperature": 21.5,
+        "temperature_difference": 9.400000000000002,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82371/280.street_img_view162afd9b552e73.jpg?",
+        "average_temperature": 21.5,
+        "temperature_difference": 9.400000000000002,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82370/280.street_img_view162afda7281682.jpg?",
+        "average_temperature": 21.5,
+        "temperature_difference": 9.400000000000002,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82405/280.street_img_view162afc740dbb10.jpg?",
+        "average_temperature": 20.3,
+        "temperature_difference": 7.199999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-06-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82459/280.street_img_view162b133b8e8c91.jpg?",
+        "average_temperature": 25.2,
+        "temperature_difference": 7.0,
+        "cluster": 2
+    },
+    {
+        "date": "2022-06-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82455/280.street_img_view162b135c1f35cf.jpg?",
+        "average_temperature": 25.2,
+        "temperature_difference": 7.0,
+        "cluster": 2
+    },
+    {
+        "date": "2022-06-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82453/280.street_img_view162b138c9325db.jpg?",
+        "average_temperature": 25.2,
+        "temperature_difference": 7.0,
+        "cluster": 2
+    },
+    {
+        "date": "2022-06-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82567/280.street_img_view162b40115e38bf.jpg?",
+        "average_temperature": 25.9,
+        "temperature_difference": 9.1,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82562/280.street_img_view162b401a255077.jpg?",
+        "average_temperature": 25.9,
+        "temperature_difference": 9.1,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82575/280.street_img_view162b3ffb41b66a.jpg?20220628155914",
+        "average_temperature": 25.9,
+        "temperature_difference": 9.1,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82575/280.street_img_view262b3ffcfc89fc.jpg?20220628155914",
+        "average_temperature": 25.9,
+        "temperature_difference": 9.1,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82583/280.street_img_view162b26c8f705f9.jpg?20220622101402",
+        "average_temperature": 25.9,
+        "temperature_difference": 9.1,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82580/280.street_img_view162b27ac6c13a2.jpg?",
+        "average_temperature": 25.9,
+        "temperature_difference": 9.1,
+        "cluster": 8
+    },
+    {
+        "date": "2022-06-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82597/280.street_img_view162b3af2c73e3b.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 3.099999999999998,
+        "cluster": 1
+    },
+    {
+        "date": "2022-06-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82674/280.street_img_view162bbf4627ba73.jpg?20220701115651",
+        "average_temperature": 26.8,
+        "temperature_difference": 2.700000000000003,
+        "cluster": 1
+    },
+    {
+        "date": "2022-06-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82727/280.street_img_view162baad2e1b1c4.jpg?20220628091753",
+        "average_temperature": 26.9,
+        "temperature_difference": 2.1999999999999997,
+        "cluster": 1
+    },
+    {
+        "date": "2022-07-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82889/280.street_img_view162cc89542dd15.jpg?20220704091957",
+        "average_temperature": 29.3,
+        "temperature_difference": 6.200000000000003,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82870/280.street_img_view162c276595f4f2.jpg?",
+        "average_temperature": 29.3,
+        "temperature_difference": 6.200000000000003,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82952/280.street_img_view162c3a85ed3443.jpg?",
+        "average_temperature": 29.2,
+        "temperature_difference": 6.400000000000002,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/82999/280.street_img_view162c67229a1ff4.jpg?20220707081338",
+        "average_temperature": 28.2,
+        "temperature_difference": 4.600000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2022-07-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83071/280.street_img_view162cbaf0d22efd.jpg?",
+        "average_temperature": 27.0,
+        "temperature_difference": 5.900000000000002,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83096/280.street_img_view162cba9f021082.jpg?",
+        "average_temperature": 27.0,
+        "temperature_difference": 5.900000000000002,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83132/280.street_img_view162d50a5cabe8c.jpg?",
+        "average_temperature": 26.8,
+        "temperature_difference": 6.199999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83157/280.street_img_view162cfacaaced37.jpg?20220713093652",
+        "average_temperature": 25.0,
+        "temperature_difference": 3.1000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2022-07-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83181/280.street_img_view162ce60f7eb846.jpg?",
+        "average_temperature": 25.0,
+        "temperature_difference": 3.1000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2022-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83210/280.street_img_view162cfa1ad93430.jpg?",
+        "average_temperature": 25.7,
+        "temperature_difference": 6.599999999999998,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83207/280.street_img_view162cfa448470f6.jpg?",
+        "average_temperature": 25.7,
+        "temperature_difference": 6.599999999999998,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83189/280.street_img_view162cfa6346562f.jpg?20220714093357",
+        "average_temperature": 25.7,
+        "temperature_difference": 6.599999999999998,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83257/280.street_img_view162d64e204b751.jpg?",
+        "average_temperature": 26.8,
+        "temperature_difference": 7.0,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83296/280.street_img_view162d7a3da20d0e.jpg?",
+        "average_temperature": 27.4,
+        "temperature_difference": 6.800000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83296/280.street_img_view262d7a4127f03d.jpg?",
+        "average_temperature": 27.4,
+        "temperature_difference": 6.800000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83315/280.street_img_view162d7a1f6dc0b8.jpg?20220720075549",
+        "average_temperature": 27.1,
+        "temperature_difference": 6.099999999999998,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83360/280.street_img_view162d8e5e557e3b.jpg?",
+        "average_temperature": 23.2,
+        "temperature_difference": 4.399999999999999,
+        "cluster": 1
+    },
+    {
+        "date": "2022-07-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83397/280.street_img_view162da49881af97.jpg?20220722154155",
+        "average_temperature": 25.1,
+        "temperature_difference": 4.600000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2022-07-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83420/280.street_img_view162de3c45dc631.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 8.399999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83450/280.street_img_view162de3376627eb.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 8.399999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83447/280.street_img_view162de33a82a33a.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 8.399999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83444/280.street_img_view162de33c8c83ff.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 8.399999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83471/280.street_img_view162ecb5366eb01.jpg?20220726093717",
+        "average_temperature": 28.9,
+        "temperature_difference": 8.700000000000003,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83499/280.street_img_view262df7cc9c0c3b.jpg?",
+        "average_temperature": 28.9,
+        "temperature_difference": 8.700000000000003,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83527/280.street_img_view162f40c3746ecb.jpg?",
+        "average_temperature": 29.3,
+        "temperature_difference": 7.0,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83543/280.street_img_view162e0ccc9db042.jpg?",
+        "average_temperature": 29.3,
+        "temperature_difference": 7.0,
+        "cluster": 2
+    },
+    {
+        "date": "2022-07-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83574/280.street_img_view162e34340e2679.jpg?20220729111859",
+        "average_temperature": 29.7,
+        "temperature_difference": 9.299999999999995,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-01",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83614/280.street_img_view162e76924c7633.jpg?",
+        "average_temperature": 28.6,
+        "temperature_difference": 7.0,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-01",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83590/280.street_img_view262e76dbc95849.jpg?20220801092939",
+        "average_temperature": 28.6,
+        "temperature_difference": 7.0,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83636/280.street_img_view162eb5a63105b4.jpg?",
+        "average_temperature": 26.8,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2022-08-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83625/62e86f117d305img_view172.jpg?20220802092627",
+        "average_temperature": 26.8,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2022-08-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83629/280.street_img_view162e8b08faccbe.jpg?",
+        "average_temperature": 26.8,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2022-08-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83683/280.street_img_view162ea0899bb656.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 4.800000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2022-08-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83679/280.street_img_view162ea09a7db377.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 4.800000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2022-08-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83724/280.street_img_view162eb2d67b9b57.jpg?",
+        "average_temperature": 28.9,
+        "temperature_difference": 6.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83723/280.street_img_view162eb311585bd0.jpg?",
+        "average_temperature": 28.9,
+        "temperature_difference": 6.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83701/280.street_img_view162eb3fb346f73.jpg?20220804093014",
+        "average_temperature": 28.9,
+        "temperature_difference": 6.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83811/280.street_img_view162f417766f162.jpg?",
+        "average_temperature": 25.1,
+        "temperature_difference": 4.5,
+        "cluster": 1
+    },
+    {
+        "date": "2022-08-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83810/280.street_img_view162f34650e3d4a.jpg?",
+        "average_temperature": 25.1,
+        "temperature_difference": 4.5,
+        "cluster": 1
+    },
+    {
+        "date": "2022-08-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83871/280.street_img_view162f418c28c10a.jpg?",
+        "average_temperature": 24.7,
+        "temperature_difference": 7.400000000000002,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83850/280.street_img_view162f4192f8dfad.jpg?20220810092917",
+        "average_temperature": 24.7,
+        "temperature_difference": 7.400000000000002,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83936/280.street_img_view162fc50adb5464.jpg?",
+        "average_temperature": 26.7,
+        "temperature_difference": 5.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83935/280.street_img_view162fc5dec5470d.jpg?",
+        "average_temperature": 26.7,
+        "temperature_difference": 5.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/83911/280.street_img_view162fc7abe6c74e.jpg?",
+        "average_temperature": 26.7,
+        "temperature_difference": 5.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84031/280.street_img_view162ff24eabd1e7.jpg?",
+        "average_temperature": 25.6,
+        "temperature_difference": 7.400000000000002,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84028/280.street_img_view162ff276abc2f0.jpg?",
+        "average_temperature": 25.6,
+        "temperature_difference": 7.400000000000002,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84005/280.street_img_view162ff3280a61df.jpg?",
+        "average_temperature": 25.6,
+        "temperature_difference": 7.400000000000002,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84077/280.street_img_view163033ae12b464.jpg?",
+        "average_temperature": 26.8,
+        "temperature_difference": 7.300000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84134/280.street_img_view163047bd9bbf98.jpg?",
+        "average_temperature": 25.4,
+        "temperature_difference": 7.800000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84126/280.63041ecf9bcabimg_view186.jpg?",
+        "average_temperature": 25.4,
+        "temperature_difference": 7.800000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2022-08-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84249/280.street_img_view1630d5ea9a2316.jpg?",
+        "average_temperature": 21.0,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2022-08-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84243/280.street_img_view1630d5f013a366.jpg?",
+        "average_temperature": 21.0,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2022-08-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84266/280.street_img_view1630d5cbf809ef.jpg?",
+        "average_temperature": 19.1,
+        "temperature_difference": 2.400000000000002,
+        "cluster": 1
+    },
+    {
+        "date": "2022-09-01",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84351/280.street_img_view16310256f24a8d.jpg?",
+        "average_temperature": 24.0,
+        "temperature_difference": 12.099999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2022-09-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84478/280.street_img_view16316adea3c559.jpg?20220907034622",
+        "average_temperature": 21.0,
+        "temperature_difference": 9.3,
+        "cluster": 8
+    },
+    {
+        "date": "2022-09-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84475/280.street_img_view16316af612ef7a.jpg?20220907034701",
+        "average_temperature": 21.0,
+        "temperature_difference": 9.3,
+        "cluster": 8
+    },
+    {
+        "date": "2022-09-08",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84609/280.street_img_view1631948a367fc6.jpg?20220908104354",
+        "average_temperature": 23.2,
+        "temperature_difference": 12.8,
+        "cluster": 4
+    },
+    {
+        "date": "2022-09-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84681/280.street_img_view1631fed13afc5f.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 4.599999999999998,
+        "cluster": 1
+    },
+    {
+        "date": "2022-09-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84678/280.street_img_view1631ff19186e2f.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 4.599999999999998,
+        "cluster": 1
+    },
+    {
+        "date": "2022-09-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84716/280.street_img_view163228ba7621fd.jpg?",
+        "average_temperature": 24.6,
+        "temperature_difference": 5.199999999999999,
+        "cluster": 1
+    },
+    {
+        "date": "2022-09-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84758/280.street_img_view16327a8562a6cb.jpg?",
+        "average_temperature": 25.2,
+        "temperature_difference": 6.300000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2022-09-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84775/280.street_img_view16327a44ae9b9b.jpg?",
+        "average_temperature": 25.6,
+        "temperature_difference": 6.099999999999998,
+        "cluster": 2
+    },
+    {
+        "date": "2022-09-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84845/280.street_img_view1632944ea1dd5c.jpg?",
+        "average_temperature": 19.9,
+        "temperature_difference": 8.5,
+        "cluster": 8
+    },
+    {
+        "date": "2022-09-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84849/280.street_img_view1632944167a810.jpg?",
+        "average_temperature": 19.9,
+        "temperature_difference": 8.5,
+        "cluster": 8
+    },
+    {
+        "date": "2022-09-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84849/280.street_img_view26329441ab843f.jpg?",
+        "average_temperature": 19.9,
+        "temperature_difference": 8.5,
+        "cluster": 8
+    },
+    {
+        "date": "2022-09-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84892/280.street_img_view1632be622a966a.jpg?20220922142851",
+        "average_temperature": 19.4,
+        "temperature_difference": 12.6,
+        "cluster": 4
+    },
+    {
+        "date": "2022-09-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84972/280.street_img_view1633246a25f50b.jpg?",
+        "average_temperature": 20.0,
+        "temperature_difference": 10.599999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2022-09-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/84961/280.street_img_view16331d1bfc2dea.jpg?",
+        "average_temperature": 20.0,
+        "temperature_difference": 10.599999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2022-09-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85044/280.street_img_view16333ce4e832fb.jpg?20220928120012",
+        "average_temperature": 20.9,
+        "temperature_difference": 14.0,
+        "cluster": 4
+    },
+    {
+        "date": "2022-09-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85065/280.street_img_view16333c146530a7.jpg?20220928112121",
+        "average_temperature": 20.4,
+        "temperature_difference": 10.0,
+        "cluster": 8
+    },
+    {
+        "date": "2022-09-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85114/280.street_img_view163363fcadab74.jpg?20220930102043",
+        "average_temperature": 20.4,
+        "temperature_difference": 10.1,
+        "cluster": 8
+    },
+    {
+        "date": "2022-09-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85107/280.street_img_view163352bdcabd89.jpg?20220929151500",
+        "average_temperature": 20.4,
+        "temperature_difference": 10.1,
+        "cluster": 8
+    },
+    {
+        "date": "2022-10-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85182/280.street_img_view1633db8b222543.jpg?",
+        "average_temperature": 17.9,
+        "temperature_difference": 8.8,
+        "cluster": 8
+    },
+    {
+        "date": "2022-10-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85194/280.street_img_view1633b959da6c54.jpg?",
+        "average_temperature": 17.9,
+        "temperature_difference": 8.8,
+        "cluster": 8
+    },
+    {
+        "date": "2022-10-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85253/280.street_img_view1633d179313c32.jpg?",
+        "average_temperature": 16.6,
+        "temperature_difference": 7.500000000000002,
+        "cluster": 7
+    },
+    {
+        "date": "2022-10-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85250/280.street_img_view1633d182bab349.jpg?",
+        "average_temperature": 16.6,
+        "temperature_difference": 7.500000000000002,
+        "cluster": 7
+    },
+    {
+        "date": "2022-10-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85261/280.street_img_view1633d14d92a4a8.jpg?",
+        "average_temperature": 16.6,
+        "temperature_difference": 7.500000000000002,
+        "cluster": 7
+    },
+    {
+        "date": "2022-10-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85306/280.street_img_view16344f3c3672b6.jpg?",
+        "average_temperature": 15.8,
+        "temperature_difference": 6.400000000000002,
+        "cluster": 7
+    },
+    {
+        "date": "2022-10-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85366/280.street_img_view163464e8929b8e.jpg?20221012173818",
+        "average_temperature": 11.1,
+        "temperature_difference": 8.999999999999998,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85365/280.street_img_view163464e996f5bf.jpg?20221012173827",
+        "average_temperature": 11.1,
+        "temperature_difference": 8.999999999999998,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85365/280.street_img_view263464e9e89a8e.jpg?20221012173827",
+        "average_temperature": 11.1,
+        "temperature_difference": 8.999999999999998,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85363/280.street_img_view163464ec6ba3eb.jpg?20221012173847",
+        "average_temperature": 11.1,
+        "temperature_difference": 8.999999999999998,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85361/280.street_img_view16346507459f12.jpg?20221012173906",
+        "average_temperature": 11.1,
+        "temperature_difference": 8.999999999999998,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85360/280.street_img_view1634650865bf1e.jpg?20221012173914",
+        "average_temperature": 11.1,
+        "temperature_difference": 8.999999999999998,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85382/280.street_img_view163464a940fd54.jpg?20221012173411",
+        "average_temperature": 11.1,
+        "temperature_difference": 8.999999999999998,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85380/280.street_img_view163464b7bdcb22.jpg?20221012173429",
+        "average_temperature": 11.1,
+        "temperature_difference": 8.999999999999998,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85373/280.street_img_view163464c7d53a8e.jpg?20221012173706",
+        "average_temperature": 11.1,
+        "temperature_difference": 8.999999999999998,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85371/280.street_img_view163464cab8d7ae.jpg?20221012173724",
+        "average_temperature": 11.1,
+        "temperature_difference": 8.999999999999998,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85421/280.street_img_view1634ce0137b1b9.jpg?20221017162542",
+        "average_temperature": 13.5,
+        "temperature_difference": 14.1,
+        "cluster": 4
+    },
+    {
+        "date": "2022-10-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85416/280.street_img_view1634ce3c60fe67.jpg?20221017162449",
+        "average_temperature": 13.5,
+        "temperature_difference": 14.1,
+        "cluster": 4
+    },
+    {
+        "date": "2022-10-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85406/280.street_img_view1634ce8d4ce0e3.jpg?20221017162200",
+        "average_temperature": 13.5,
+        "temperature_difference": 14.1,
+        "cluster": 4
+    },
+    {
+        "date": "2022-10-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85491/280.street_img_view1634779f2d826f.jpg?20221013163939",
+        "average_temperature": 16.3,
+        "temperature_difference": 12.0,
+        "cluster": 4
+    },
+    {
+        "date": "2022-10-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85483/280.street_img_view163477b4f258c3.jpg?20221013164511",
+        "average_temperature": 16.3,
+        "temperature_difference": 12.0,
+        "cluster": 4
+    },
+    {
+        "date": "2022-10-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85632/280.street_img_view1634f853c6ad14.jpg?20221019172817",
+        "average_temperature": 10.5,
+        "temperature_difference": 12.4,
+        "cluster": 4
+    },
+    {
+        "date": "2022-10-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85624/280.street_img_view1634f88d87d568.jpg?20221019172850",
+        "average_temperature": 10.5,
+        "temperature_difference": 12.4,
+        "cluster": 4
+    },
+    {
+        "date": "2022-10-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85618/280.street_img_view1634f9bca015a3.jpg?20221019172933",
+        "average_temperature": 10.5,
+        "temperature_difference": 12.4,
+        "cluster": 4
+    },
+    {
+        "date": "2022-10-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85734/280.street_img_view16350d6d2859f2.jpg?",
+        "average_temperature": 12.9,
+        "temperature_difference": 13.7,
+        "cluster": 4
+    },
+    {
+        "date": "2022-10-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85770/280.street_img_view16357051bdaeb8.jpg?",
+        "average_temperature": 10.6,
+        "temperature_difference": 7.300000000000001,
+        "cluster": 7
+    },
+    {
+        "date": "2022-10-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85767/280.street_img_view16357053c89ec7.jpg?",
+        "average_temperature": 10.6,
+        "temperature_difference": 7.300000000000001,
+        "cluster": 7
+    },
+    {
+        "date": "2022-10-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85758/280.street_img_view163570589462fa.jpg?",
+        "average_temperature": 10.6,
+        "temperature_difference": 7.300000000000001,
+        "cluster": 7
+    },
+    {
+        "date": "2022-10-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85874/280.street_img_view16358cad34d07c.jpg?",
+        "average_temperature": 12.9,
+        "temperature_difference": 9.8,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85872/280.street_img_view16358cb1231ddb.jpg?",
+        "average_temperature": 12.9,
+        "temperature_difference": 9.8,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85860/280.street_img_view16358d345488b5.jpg?",
+        "average_temperature": 12.9,
+        "temperature_difference": 9.8,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85968/280.street_img_view1635f65f58d8e0.jpg?",
+        "average_temperature": 14.9,
+        "temperature_difference": 9.900000000000002,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85953/280.street_img_view1635f5a9ce5966.jpg?",
+        "average_temperature": 14.9,
+        "temperature_difference": 9.900000000000002,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85952/280.street_img_view1635f5ae7011e4.jpg?",
+        "average_temperature": 14.9,
+        "temperature_difference": 9.900000000000002,
+        "cluster": 0
+    },
+    {
+        "date": "2022-10-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/85949/280.street_img_view1635f567a969fb.jpg?",
+        "average_temperature": 14.9,
+        "temperature_difference": 9.900000000000002,
+        "cluster": 0
+    },
+    {
+        "date": "2022-11-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/86267/280.street_img_view1636ddb9d8ac1a.jpg?20221111145010",
+        "average_temperature": 15.6,
+        "temperature_difference": 11.2,
+        "cluster": 0
+    },
+    {
+        "date": "2022-11-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/86613/280.street_img_view1637ee0bcd2b45.jpg?20221124123255",
+        "average_temperature": 9.4,
+        "temperature_difference": 8.2,
+        "cluster": 0
+    },
+    {
+        "date": "2022-12-01",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/86746/280.street_img_view1638842658adaa.jpg?20221201152148",
+        "average_temperature": -5.4,
+        "temperature_difference": 8.200000000000001,
+        "cluster": 3
+    },
+    {
+        "date": "2021-01-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67530/280.street_img_view15ff3cf0b438df.jpg?20210105113155",
+        "average_temperature": -5.5,
+        "temperature_difference": 7.800000000000001,
+        "cluster": 3
+    },
+    {
+        "date": "2021-01-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67557/280.street_img_view15ff526a932dc4.jpg?",
+        "average_temperature": -7.4,
+        "temperature_difference": 10.1,
+        "cluster": 3
+    },
+    {
+        "date": "2021-01-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67605/280.street_img_view15ff672a2ef634.jpg?",
+        "average_temperature": -14.5,
+        "temperature_difference": 8.1,
+        "cluster": 3
+    },
+    {
+        "date": "2021-01-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67602/280.street_img_view15ff68f6c238d1.jpg?20210107093155",
+        "average_temperature": -14.5,
+        "temperature_difference": 8.1,
+        "cluster": 3
+    },
+    {
+        "date": "2021-01-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67688/280.street_img_view15ffd05b626ba7.jpg?",
+        "average_temperature": -3.9,
+        "temperature_difference": 8.8,
+        "cluster": 3
+    },
+    {
+        "date": "2021-01-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67710/280.street_img_view15ffe5e195c909.jpg?",
+        "average_temperature": 2.0,
+        "temperature_difference": 11.3,
+        "cluster": 6
+    },
+    {
+        "date": "2021-01-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67753/280.street_img_view15fffbabc48488.jpg?",
+        "average_temperature": 1.7,
+        "temperature_difference": 10.6,
+        "cluster": 6
+    },
+    {
+        "date": "2021-01-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67790/280.street_img_view160066ca76cb0c.jpg?20210118082410",
+        "average_temperature": -3.8,
+        "temperature_difference": 9.3,
+        "cluster": 3
+    },
+    {
+        "date": "2021-01-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67816/280.street_img_view160051734600b5.jpg?20210118143117",
+        "average_temperature": -3.8,
+        "temperature_difference": 9.3,
+        "cluster": 3
+    },
+    {
+        "date": "2021-01-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67856/280.street_img_view160063fc03c01b.jpg?20210119111242",
+        "average_temperature": -6.3,
+        "temperature_difference": 11.4,
+        "cluster": 6
+    },
+    {
+        "date": "2021-01-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67888/280.street_img_view16007d679d95a8.jpg?",
+        "average_temperature": -0.1,
+        "temperature_difference": 13.7,
+        "cluster": 6
+    },
+    {
+        "date": "2021-01-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67886/280.street_img_view16007c227e673a.jpg?",
+        "average_temperature": -0.1,
+        "temperature_difference": 13.7,
+        "cluster": 6
+    },
+    {
+        "date": "2021-01-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67905/280.street_img_view16007c0dca0594.jpg?",
+        "average_temperature": -0.1,
+        "temperature_difference": 13.7,
+        "cluster": 6
+    },
+    {
+        "date": "2021-01-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67899/280.street_img_view16007c5de657d1.jpg?",
+        "average_temperature": -0.1,
+        "temperature_difference": 13.7,
+        "cluster": 6
+    },
+    {
+        "date": "2021-01-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67942/280.street_img_view16012545f5ee66.jpg?",
+        "average_temperature": 4.5,
+        "temperature_difference": 4.5,
+        "cluster": 5
+    },
+    {
+        "date": "2021-01-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67934/280.street_img_view160090c3623f90.jpg?",
+        "average_temperature": 4.5,
+        "temperature_difference": 4.5,
+        "cluster": 5
+    },
+    {
+        "date": "2021-01-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67999/280.street_img_view1600fae83dc6ab.jpg?",
+        "average_temperature": 7.9,
+        "temperature_difference": 10.9,
+        "cluster": 6
+    },
+    {
+        "date": "2021-01-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67987/280.street_img_view1600e3a570f2ec.jpg?",
+        "average_temperature": 7.9,
+        "temperature_difference": 10.9,
+        "cluster": 6
+    },
+    {
+        "date": "2021-01-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68063/280.street_img_view160232e4a78241.jpg?",
+        "average_temperature": 5.3,
+        "temperature_difference": 5.7,
+        "cluster": 5
+    },
+    {
+        "date": "2021-01-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68031/280.street_img_view1600fb583b4de5.jpg?",
+        "average_temperature": 5.3,
+        "temperature_difference": 5.7,
+        "cluster": 5
+    },
+    {
+        "date": "2021-01-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68084/280.street_img_view16012529897055.jpg?",
+        "average_temperature": 1.7,
+        "temperature_difference": 8.3,
+        "cluster": 5
+    },
+    {
+        "date": "2021-01-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68089/280.street_img_view16010c06babadb.jpg?",
+        "average_temperature": 1.7,
+        "temperature_difference": 8.3,
+        "cluster": 5
+    },
+    {
+        "date": "2021-01-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68130/280.street_img_view16018b1500cc96.jpg?",
+        "average_temperature": -2.6,
+        "temperature_difference": 11.1,
+        "cluster": 6
+    },
+    {
+        "date": "2021-01-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68126/280.street_img_view260122f78d8eb3.jpg?20210128154046",
+        "average_temperature": -2.6,
+        "temperature_difference": 11.1,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-01",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68196/280.street_img_view160176911d619c.jpg?",
+        "average_temperature": 5.0,
+        "temperature_difference": 11.8,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68250/280.street_img_view16018a6266beb8.jpg?",
+        "average_temperature": -5.6,
+        "temperature_difference": 5.799999999999999,
+        "cluster": 3
+    },
+    {
+        "date": "2021-02-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68278/280.street_img_view1601a0bc6cd5f7.jpg?",
+        "average_temperature": -3.2,
+        "temperature_difference": 10.8,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-08",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68346/280.street_img_view16020983dc7d41.jpg?",
+        "average_temperature": -3.1,
+        "temperature_difference": 5.6000000000000005,
+        "cluster": 5
+    },
+    {
+        "date": "2021-02-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68393/280.street_img_view160222309a676f.jpg?",
+        "average_temperature": -0.9,
+        "temperature_difference": 10.8,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68383/280.street_img_view160221e8f9f7c9.jpg?",
+        "average_temperature": -0.9,
+        "temperature_difference": 10.8,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68445/280.street_img_view26029db2ee6243.jpg?20210215171641",
+        "average_temperature": 1.2,
+        "temperature_difference": 13.4,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68444/280.street_img_view26029df00d66a6.jpg?20210215173243",
+        "average_temperature": 1.2,
+        "temperature_difference": 13.4,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68429/280.street_img_view26029e3ba7bf8e.jpg?20210215171759",
+        "average_temperature": 1.2,
+        "temperature_difference": 13.4,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68428/280.street_img_view26029e59db1bef.jpg?20210215171830",
+        "average_temperature": 1.2,
+        "temperature_difference": 13.4,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68427/280.street_img_view26029e83ae3e81.jpg?20210215171857",
+        "average_temperature": 1.2,
+        "temperature_difference": 13.4,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68426/280.street_img_view26029e9d4bacb1.jpg?20210215171923",
+        "average_temperature": 1.2,
+        "temperature_difference": 13.4,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68424/280.street_img_view26029fbf232a6e.jpg?20210215172020",
+        "average_temperature": 1.2,
+        "temperature_difference": 13.4,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68423/280.street_img_view26029fe0c56055.jpg?20210215172047",
+        "average_temperature": 1.2,
+        "temperature_difference": 13.4,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68477/280.street_img_view1602b308f13b2d.jpg?",
+        "average_temperature": -5.1,
+        "temperature_difference": 5.7,
+        "cluster": 3
+    },
+    {
+        "date": "2021-02-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68605/280.street_img_view1602dc549619cf.jpg?20210218104424",
+        "average_temperature": -5.8,
+        "temperature_difference": 10.2,
+        "cluster": 3
+    },
+    {
+        "date": "2021-02-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68649/280.street_img_view16033092d75b66.jpg?",
+        "average_temperature": 7.8,
+        "temperature_difference": 12.2,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68648/280.street_img_view160330c624dda0.jpg?20210222104601",
+        "average_temperature": 7.8,
+        "temperature_difference": 12.2,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68669/280.street_img_view16032f8001071c.jpg?",
+        "average_temperature": 7.8,
+        "temperature_difference": 12.2,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68654/280.street_img_view160331f2145d24.jpg?",
+        "average_temperature": 7.8,
+        "temperature_difference": 12.2,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68652/280.street_img_view16033080410203.jpg?",
+        "average_temperature": 7.8,
+        "temperature_difference": 12.2,
+        "cluster": 6
+    },
+    {
+        "date": "2021-02-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68722/280.street_img_view1603db1400e2bb.jpg?20210302131906",
+        "average_temperature": 0.0,
+        "temperature_difference": 7.4,
+        "cluster": 5
+    },
+    {
+        "date": "2021-02-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68702/280.street_img_view160346adb8224b.jpg?",
+        "average_temperature": 0.0,
+        "temperature_difference": 7.4,
+        "cluster": 5
+    },
+    {
+        "date": "2021-02-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68714/280.street_img_view160347244d6d99.jpg?",
+        "average_temperature": 0.0,
+        "temperature_difference": 7.4,
+        "cluster": 5
+    },
+    {
+        "date": "2021-02-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68743/280.street_img_view160345e6290c7f.jpg?20210223104722",
+        "average_temperature": 0.0,
+        "temperature_difference": 7.4,
+        "cluster": 5
+    },
+    {
+        "date": "2021-02-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68829/280.street_img_view1603710bf074db.jpg?20210225115502",
+        "average_temperature": 4.2,
+        "temperature_difference": 7.499999999999999,
+        "cluster": 5
+    },
+    {
+        "date": "2021-03-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68886/280.street_img_view16040619daa3dc.jpg?",
+        "average_temperature": 2.3,
+        "temperature_difference": 6.7,
+        "cluster": 5
+    },
+    {
+        "date": "2021-03-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68922/280.street_img_view16139777134b39.jpg?20210304121723",
+        "average_temperature": 4.4,
+        "temperature_difference": 11.1,
+        "cluster": 6
+    },
+    {
+        "date": "2021-03-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68927/280.street_img_view1603ee51f564c6.jpg?",
+        "average_temperature": 4.4,
+        "temperature_difference": 11.1,
+        "cluster": 6
+    },
+    {
+        "date": "2021-03-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68995/280.street_img_view160409c7adbc7a.jpg?20210304173916",
+        "average_temperature": 7.2,
+        "temperature_difference": 10.5,
+        "cluster": 6
+    },
+    {
+        "date": "2021-03-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/68956/280.street_img_view160404564bfe5a.jpg?",
+        "average_temperature": 7.2,
+        "temperature_difference": 10.5,
+        "cluster": 6
+    },
+    {
+        "date": "2021-03-08",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69030/280.street_img_view16045897890fa0.jpg?",
+        "average_temperature": 7.0,
+        "temperature_difference": 12.4,
+        "cluster": 6
+    },
+    {
+        "date": "2021-03-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69083/280.street_img_view16047147707b90.jpg?",
+        "average_temperature": 6.6,
+        "temperature_difference": 10.1,
+        "cluster": 6
+    },
+    {
+        "date": "2021-03-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69132/280.street_img_view1604831652bdad.jpg?20210310114253",
+        "average_temperature": 8.8,
+        "temperature_difference": 15.400000000000002,
+        "cluster": 4
+    },
+    {
+        "date": "2021-03-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69184/280.street_img_view1604eb5bce2f55.jpg?",
+        "average_temperature": 10.2,
+        "temperature_difference": 12.400000000000002,
+        "cluster": 4
+    },
+    {
+        "date": "2021-03-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69228/280.street_img_view1604ab945ec901.jpg?20210312094456",
+        "average_temperature": 10.5,
+        "temperature_difference": 7.7,
+        "cluster": 7
+    },
+    {
+        "date": "2021-03-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69259/280.street_img_view16052c77fdae36.jpg?",
+        "average_temperature": 8.4,
+        "temperature_difference": 8.2,
+        "cluster": 0
+    },
+    {
+        "date": "2021-03-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69260/280.street_img_view1605039bdd2f40.jpg?",
+        "average_temperature": 8.4,
+        "temperature_difference": 8.2,
+        "cluster": 0
+    },
+    {
+        "date": "2021-03-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69414/280.street_img_view16053f4c23cc6d.jpg?20210420154731",
+        "average_temperature": 15.3,
+        "temperature_difference": 8.799999999999999,
+        "cluster": 0
+    },
+    {
+        "date": "2021-03-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69412/280.street_img_view16053f74e8fa3b.jpg?20210319100129",
+        "average_temperature": 15.3,
+        "temperature_difference": 8.799999999999999,
+        "cluster": 0
+    },
+    {
+        "date": "2021-03-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69406/280.street_img_view1605405b6bb540.jpg?20210319110238",
+        "average_temperature": 15.3,
+        "temperature_difference": 8.799999999999999,
+        "cluster": 0
+    },
+    {
+        "date": "2021-03-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69406/280.street_img_view2605405cda46be.jpg?20210319110238",
+        "average_temperature": 15.3,
+        "temperature_difference": 8.799999999999999,
+        "cluster": 0
+    },
+    {
+        "date": "2021-03-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69433/280.street_img_view1605aca298a661.jpg?20210324141416",
+        "average_temperature": 6.2,
+        "temperature_difference": 10.0,
+        "cluster": 6
+    },
+    {
+        "date": "2021-03-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69433/280.street_img_view2605aca7b242fe.jpg?20210324141416",
+        "average_temperature": 6.2,
+        "temperature_difference": 10.0,
+        "cluster": 6
+    },
+    {
+        "date": "2021-03-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69448/280.street_img_view1605ac803a31f2.jpg?20210322091557",
+        "average_temperature": 6.2,
+        "temperature_difference": 10.0,
+        "cluster": 6
+    },
+    {
+        "date": "2021-03-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69443/280.street_img_view160597c0b1ba99.jpg?20210323142927",
+        "average_temperature": 6.2,
+        "temperature_difference": 10.0,
+        "cluster": 6
+    },
+    {
+        "date": "2021-03-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69425/280.street_img_view16057ff2885082.jpg?",
+        "average_temperature": 6.2,
+        "temperature_difference": 10.0,
+        "cluster": 6
+    },
+    {
+        "date": "2021-03-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69516/280.street_img_view160594861810ad.jpg?20210323111840",
+        "average_temperature": 9.1,
+        "temperature_difference": 13.9,
+        "cluster": 4
+    },
+    {
+        "date": "2021-03-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69597/280.street_img_view160615c57dc8a8.jpg?",
+        "average_temperature": 11.9,
+        "temperature_difference": 12.2,
+        "cluster": 4
+    },
+    {
+        "date": "2021-03-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69651/280.street_img_view16062d96b41bb9.jpg?20210330165638",
+        "average_temperature": 10.2,
+        "temperature_difference": 7.3,
+        "cluster": 7
+    },
+    {
+        "date": "2021-03-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69709/280.street_img_view1606c0bd74bea6.jpg?",
+        "average_temperature": 10.8,
+        "temperature_difference": 14.1,
+        "cluster": 4
+    },
+    {
+        "date": "2021-03-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69695/280.street_img_view1606287e595411.jpg?",
+        "average_temperature": 10.8,
+        "temperature_difference": 14.1,
+        "cluster": 4
+    },
+    {
+        "date": "2021-03-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69780/280.street_img_view16063dc5aad9ed.jpg?",
+        "average_temperature": 14.5,
+        "temperature_difference": 17.0,
+        "cluster": 4
+    },
+    {
+        "date": "2021-03-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69759/280.street_img_view16063f77f4afdb.jpg?",
+        "average_temperature": 14.5,
+        "temperature_difference": 17.0,
+        "cluster": 4
+    },
+    {
+        "date": "2021-04-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69920/280.street_img_view1606bf3568ecc5.jpg?20210406092458",
+        "average_temperature": 13.9,
+        "temperature_difference": 9.8,
+        "cluster": 0
+    },
+    {
+        "date": "2021-04-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69943/280.street_img_view16073dd96b1ba1.jpg?",
+        "average_temperature": 14.1,
+        "temperature_difference": 12.3,
+        "cluster": 4
+    },
+    {
+        "date": "2021-04-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69952/280.street_img_view1606e932056afc.jpg?20210408142751",
+        "average_temperature": 14.1,
+        "temperature_difference": 12.3,
+        "cluster": 4
+    },
+    {
+        "date": "2021-04-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69941/280.street_img_view1606e9f2e2c312.jpg?",
+        "average_temperature": 14.1,
+        "temperature_difference": 12.3,
+        "cluster": 4
+    },
+    {
+        "date": "2021-04-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69963/280.street_img_view1606e746962967.jpg?",
+        "average_temperature": 14.1,
+        "temperature_difference": 12.3,
+        "cluster": 4
+    },
+    {
+        "date": "2021-04-08",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69994/280.street_img_view16073b57fdc94d.jpg?",
+        "average_temperature": 13.0,
+        "temperature_difference": 10.8,
+        "cluster": 0
+    },
+    {
+        "date": "2021-04-08",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69989/280.street_img_view16073cee550de5.jpg?20210412134024",
+        "average_temperature": 13.0,
+        "temperature_difference": 10.8,
+        "cluster": 0
+    },
+    {
+        "date": "2021-04-08",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/69987/280.street_img_view16073d3f35190c.jpg?20210412141724",
+        "average_temperature": 13.0,
+        "temperature_difference": 10.8,
+        "cluster": 0
+    },
+    {
+        "date": "2021-04-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70042/280.street_img_view16087a38765484.jpg?20210427144008",
+        "average_temperature": 13.8,
+        "temperature_difference": 5.9,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70050/280.street_img_view1607e6f0baadc1.jpg?",
+        "average_temperature": 13.8,
+        "temperature_difference": 5.9,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70056/280.street_img_view1607528183c579.jpg?",
+        "average_temperature": 13.8,
+        "temperature_difference": 5.9,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70098/280.street_img_view1607502364cc3f.jpg?",
+        "average_temperature": 13.8,
+        "temperature_difference": 5.9,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70079/280.street_img_view16075060827c81.jpg?20210412115050",
+        "average_temperature": 13.8,
+        "temperature_difference": 5.9,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70167/280.street_img_view160764158f3240.jpg?20210414101259",
+        "average_temperature": 8.4,
+        "temperature_difference": 10.2,
+        "cluster": 0
+    },
+    {
+        "date": "2021-04-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70158/280.street_img_view160764b180d054.jpg?20210414081334",
+        "average_temperature": 8.4,
+        "temperature_difference": 10.2,
+        "cluster": 0
+    },
+    {
+        "date": "2021-04-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70242/280.street_img_view1607e69ef6950b.jpg?20210420144415",
+        "average_temperature": 11.6,
+        "temperature_difference": 12.0,
+        "cluster": 4
+    },
+    {
+        "date": "2021-04-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70224/280.street_img_view16077cc612ae7f.jpg?20210415141927",
+        "average_temperature": 11.6,
+        "temperature_difference": 12.0,
+        "cluster": 4
+    },
+    {
+        "date": "2021-04-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70206/280.street_img_view16077db1d6b811.jpg?",
+        "average_temperature": 11.6,
+        "temperature_difference": 12.0,
+        "cluster": 4
+    },
+    {
+        "date": "2021-04-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70348/280.street_img_view1608652ccc01be.jpg?",
+        "average_temperature": 14.8,
+        "temperature_difference": 13.9,
+        "cluster": 4
+    },
+    {
+        "date": "2021-04-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70337/280.street_img_view1607e2a3d30329.jpg?",
+        "average_temperature": 14.8,
+        "temperature_difference": 13.9,
+        "cluster": 4
+    },
+    {
+        "date": "2021-04-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70391/280.street_img_view1607f90f7d5430.jpg?20210421114335",
+        "average_temperature": 19.1,
+        "temperature_difference": 17.9,
+        "cluster": 4
+    },
+    {
+        "date": "2021-04-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70451/280.street_img_view1608624173a25f.jpg?",
+        "average_temperature": 20.9,
+        "temperature_difference": 11.4,
+        "cluster": 8
+    },
+    {
+        "date": "2021-04-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70437/280.street_img_view260863406df462.jpg?20210426133706",
+        "average_temperature": 20.9,
+        "temperature_difference": 11.4,
+        "cluster": 8
+    },
+    {
+        "date": "2021-04-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70457/280.street_img_view16080da94756ce.jpg?",
+        "average_temperature": 20.9,
+        "temperature_difference": 11.4,
+        "cluster": 8
+    },
+    {
+        "date": "2021-04-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70455/280.street_img_view16080dd43ce396.jpg?",
+        "average_temperature": 20.9,
+        "temperature_difference": 11.4,
+        "cluster": 8
+    },
+    {
+        "date": "2021-04-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70449/280.street_img_view16080e1b6ce289.jpg?",
+        "average_temperature": 20.9,
+        "temperature_difference": 11.4,
+        "cluster": 8
+    },
+    {
+        "date": "2021-04-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70443/280.street_img_view16080e3fc852ca.jpg?",
+        "average_temperature": 20.9,
+        "temperature_difference": 11.4,
+        "cluster": 8
+    },
+    {
+        "date": "2021-04-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70926/280.street_img_view1609b8f74e14a7.jpg?20210512172045",
+        "average_temperature": 18.3,
+        "temperature_difference": 6.899999999999999,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70499/280.street_img_view16087977a43ca2.jpg?",
+        "average_temperature": 16.2,
+        "temperature_difference": 8.3,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70522/280.street_img_view16086144591ee5.jpg?",
+        "average_temperature": 16.2,
+        "temperature_difference": 8.3,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70567/280.street_img_view16088ec2034ffa.jpg?",
+        "average_temperature": 15.4,
+        "temperature_difference": 7.5,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70571/280.street_img_view16088e59e3c6c8.jpg?20210428135424",
+        "average_temperature": 15.4,
+        "temperature_difference": 7.5,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70635/280.street_img_view1608f8f625991c.jpg?",
+        "average_temperature": 14.5,
+        "temperature_difference": 7.0,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70645/280.street_img_view1608a497169916.jpg?20210429145254",
+        "average_temperature": 14.5,
+        "temperature_difference": 7.0,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70632/280.street_img_view1608a4aebb1740.jpg?",
+        "average_temperature": 14.5,
+        "temperature_difference": 7.0,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70620/280.street_img_view16088b415d9e1f.jpg?",
+        "average_temperature": 14.5,
+        "temperature_difference": 7.0,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70619/280.street_img_view16088b4f77af2d.jpg?",
+        "average_temperature": 14.5,
+        "temperature_difference": 7.0,
+        "cluster": 7
+    },
+    {
+        "date": "2021-04-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70684/280.street_img_view1608a17ea9749c.jpg?20210429091731",
+        "average_temperature": 14.6,
+        "temperature_difference": 9.2,
+        "cluster": 0
+    },
+    {
+        "date": "2021-04-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70684/280.street_img_view2608a17fba2846.jpg?20210429091731",
+        "average_temperature": 14.6,
+        "temperature_difference": 9.2,
+        "cluster": 0
+    },
+    {
+        "date": "2021-04-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70675/280.street_img_view1608a1caa9e570.jpg?",
+        "average_temperature": 14.6,
+        "temperature_difference": 9.2,
+        "cluster": 0
+    },
+    {
+        "date": "2021-04-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70671/280.street_img_view1608a21c56fdb9.jpg?20211222193321",
+        "average_temperature": 14.6,
+        "temperature_difference": 9.2,
+        "cluster": 0
+    },
+    {
+        "date": "2021-04-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70666/280.street_img_view1608a2588c7f3a.jpg?",
+        "average_temperature": 14.6,
+        "temperature_difference": 9.2,
+        "cluster": 0
+    },
+    {
+        "date": "2021-05-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70750/280.street_img_view1608f67194949a.jpg?20210503090305",
+        "average_temperature": 14.1,
+        "temperature_difference": 11.9,
+        "cluster": 4
+    },
+    {
+        "date": "2021-05-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70779/280.street_img_view16090a93a9df66.jpg?20210504105830",
+        "average_temperature": 13.8,
+        "temperature_difference": 4.4,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70843/280.street_img_view160a607d313370.jpg?20210506081124",
+        "average_temperature": 15.7,
+        "temperature_difference": 15.2,
+        "cluster": 4
+    },
+    {
+        "date": "2021-05-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70864/280.street_img_view160989245216d4.jpg?20210510105737",
+        "average_temperature": 13.2,
+        "temperature_difference": 2.9000000000000004,
+        "cluster": 1
+    },
+    {
+        "date": "2021-05-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70888/280.street_img_view1609cdfcd86854.jpg?",
+        "average_temperature": 18.5,
+        "temperature_difference": 16.299999999999997,
+        "cluster": 4
+    },
+    {
+        "date": "2021-05-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70911/280.street_img_view1609cdaaabf13e.jpg?",
+        "average_temperature": 18.5,
+        "temperature_difference": 16.299999999999997,
+        "cluster": 4
+    },
+    {
+        "date": "2021-05-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70944/280.street_img_view1609cd1c1bb94c.jpg?",
+        "average_temperature": 22.0,
+        "temperature_difference": 10.8,
+        "cluster": 8
+    },
+    {
+        "date": "2021-05-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70947/280.street_img_view1609b81312347f.jpg?",
+        "average_temperature": 22.0,
+        "temperature_difference": 10.8,
+        "cluster": 8
+    },
+    {
+        "date": "2021-05-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70973/280.street_img_view1609b3f5cb5159.jpg?20210512095038",
+        "average_temperature": 22.0,
+        "temperature_difference": 10.8,
+        "cluster": 8
+    },
+    {
+        "date": "2021-05-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70971/280.street_img_view1609b437087385.jpg?20210512094125",
+        "average_temperature": 22.0,
+        "temperature_difference": 10.8,
+        "cluster": 8
+    },
+    {
+        "date": "2021-05-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/70998/280.street_img_view160a1fe6721882.jpg?",
+        "average_temperature": 22.9,
+        "temperature_difference": 13.0,
+        "cluster": 4
+    },
+    {
+        "date": "2021-05-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71076/280.street_img_view160a30ba0d6d9b.jpg?",
+        "average_temperature": 15.3,
+        "temperature_difference": 2.5,
+        "cluster": 1
+    },
+    {
+        "date": "2021-05-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71042/280.street_img_view160a1df27ba85e.jpg?20210517122027",
+        "average_temperature": 15.3,
+        "temperature_difference": 2.5,
+        "cluster": 1
+    },
+    {
+        "date": "2021-05-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71047/280.street_img_view160a1d996803e8.jpg?",
+        "average_temperature": 15.3,
+        "temperature_difference": 2.5,
+        "cluster": 1
+    },
+    {
+        "date": "2021-05-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71065/280.street_img_view160a1cd9589d5e.jpg?",
+        "average_temperature": 15.3,
+        "temperature_difference": 2.5,
+        "cluster": 1
+    },
+    {
+        "date": "2021-05-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71118/280.street_img_view160a5c47d9e734.jpg?20210520135244",
+        "average_temperature": 17.9,
+        "temperature_difference": 10.9,
+        "cluster": 8
+    },
+    {
+        "date": "2021-05-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71101/280.street_img_view160a5f9082721e.jpg?20210520145538",
+        "average_temperature": 17.9,
+        "temperature_difference": 10.9,
+        "cluster": 8
+    },
+    {
+        "date": "2021-05-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71143/280.street_img_view160ac55366c803.jpg?",
+        "average_temperature": 18.7,
+        "temperature_difference": 7.299999999999999,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71168/280.street_img_view160ab2d84af921.jpg?20210524133836",
+        "average_temperature": 18.7,
+        "temperature_difference": 7.299999999999999,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71223/280.street_img_view160ab6c1e63c30.jpg?20210524093117",
+        "average_temperature": 19.4,
+        "temperature_difference": 8.100000000000001,
+        "cluster": 8
+    },
+    {
+        "date": "2021-05-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71192/280.street_img_view160ab703d885f4.jpg?",
+        "average_temperature": 19.4,
+        "temperature_difference": 8.100000000000001,
+        "cluster": 8
+    },
+    {
+        "date": "2021-05-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71191/280.street_img_view160ab17f2e76f5.jpg?20210524155419",
+        "average_temperature": 19.4,
+        "temperature_difference": 8.100000000000001,
+        "cluster": 8
+    },
+    {
+        "date": "2021-05-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71222/280.street_img_view160ab06917de54.jpg?20210524155452",
+        "average_temperature": 19.4,
+        "temperature_difference": 8.100000000000001,
+        "cluster": 8
+    },
+    {
+        "date": "2021-05-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71254/280.street_img_view160add5cc6bee1.jpg?",
+        "average_temperature": 15.3,
+        "temperature_difference": 7.4,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71301/280.street_img_view160ada4cb2e042.jpg?",
+        "average_temperature": 15.3,
+        "temperature_difference": 7.4,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71398/280.street_img_view160af243c92758.jpg?",
+        "average_temperature": 15.8,
+        "temperature_difference": 4.799999999999999,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71397/280.street_img_view160aefbbcec41c.jpg?",
+        "average_temperature": 15.8,
+        "temperature_difference": 4.799999999999999,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71393/280.street_img_view160af0dc823947.jpg?20210527093613",
+        "average_temperature": 15.8,
+        "temperature_difference": 4.799999999999999,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71415/280.street_img_view160b059b500ae7.jpg?20210528114854",
+        "average_temperature": 15.3,
+        "temperature_difference": 7.299999999999999,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71415/280.street_img_view260b059bceb2b3.jpg?20210528114854",
+        "average_temperature": 15.3,
+        "temperature_difference": 7.299999999999999,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71413/280.street_img_view160b057d017320.jpg?20210528113939",
+        "average_temperature": 15.3,
+        "temperature_difference": 7.299999999999999,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71438/280.street_img_view160bdb1bd137aa.jpg?",
+        "average_temperature": 19.9,
+        "temperature_difference": 7.300000000000001,
+        "cluster": 7
+    },
+    {
+        "date": "2021-05-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71473/280.street_img_view260b6f99d2b058.jpg?",
+        "average_temperature": 19.9,
+        "temperature_difference": 7.300000000000001,
+        "cluster": 7
+    },
+    {
+        "date": "2021-06-01",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71484/280.street_img_view160b5cb81bf296.jpg?",
+        "average_temperature": 20.2,
+        "temperature_difference": 7.999999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-01",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71483/280.street_img_view160b5cbe61792f.jpg?20210601145802",
+        "average_temperature": 20.2,
+        "temperature_difference": 7.999999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71554/280.street_img_view160bdaa70287e7.jpg?20210602093513",
+        "average_temperature": 23.2,
+        "temperature_difference": 13.099999999999998,
+        "cluster": 4
+    },
+    {
+        "date": "2021-06-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71529/280.street_img_view160b6eaa741f1e.jpg?",
+        "average_temperature": 23.2,
+        "temperature_difference": 13.099999999999998,
+        "cluster": 4
+    },
+    {
+        "date": "2021-06-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71544/280.street_img_view160b6cc7be17ba.jpg?",
+        "average_temperature": 23.2,
+        "temperature_difference": 13.099999999999998,
+        "cluster": 4
+    },
+    {
+        "date": "2021-06-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71589/280.street_img_view160bf0dc049569.jpg?",
+        "average_temperature": 19.1,
+        "temperature_difference": 8.1,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71586/280.street_img_view160b85d6dddd62.jpg?",
+        "average_temperature": 19.1,
+        "temperature_difference": 8.1,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71591/280.street_img_view160b84ad2ec698.jpg?20210603122447",
+        "average_temperature": 19.1,
+        "temperature_difference": 8.1,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71588/280.street_img_view160b85b1d67fd0.jpg?",
+        "average_temperature": 19.1,
+        "temperature_difference": 8.1,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71882/280.street_img_view160c6c5c780fda.jpg?",
+        "average_temperature": 20.8,
+        "temperature_difference": 8.7,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71683/280.street_img_view160bd775d5e891.jpg?20210607104656",
+        "average_temperature": 21.1,
+        "temperature_difference": 4.600000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2021-06-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71682/280.street_img_view160bd7ae2d2950.jpg?",
+        "average_temperature": 21.1,
+        "temperature_difference": 4.600000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2021-06-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71680/280.street_img_view160bd7c6d5185f.jpg?",
+        "average_temperature": 21.1,
+        "temperature_difference": 4.600000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2021-06-08",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71718/280.street_img_view160c6e817a6f77.jpg?20210608095417",
+        "average_temperature": 23.6,
+        "temperature_difference": 10.7,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-08",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71709/280.street_img_view160c1bea06219e.jpg?",
+        "average_temperature": 23.6,
+        "temperature_difference": 10.7,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71782/280.street_img_view160c6ca0bd3828.jpg?20210614121812",
+        "average_temperature": 25.8,
+        "temperature_difference": 12.1,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71772/280.street_img_view160c1b9261b4b0.jpg?20210610160635",
+        "average_temperature": 25.8,
+        "temperature_difference": 12.1,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71769/280.street_img_view160c02cbabd590.jpg?",
+        "average_temperature": 25.8,
+        "temperature_difference": 12.1,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71856/280.street_img_view160c8426edb75e.jpg?",
+        "average_temperature": 24.8,
+        "temperature_difference": 11.3,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71888/280.street_img_view260c8127948a9d.jpg?20210614112515",
+        "average_temperature": 24.8,
+        "temperature_difference": 11.3,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71935/280.street_img_view160c98022eeee8.jpg?",
+        "average_temperature": 22.5,
+        "temperature_difference": 3.8000000000000007,
+        "cluster": 1
+    },
+    {
+        "date": "2021-06-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71962/280.street_img_view160cc4a129d969.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 8.599999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71957/280.street_img_view160cc61e170c36.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 8.599999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71983/280.street_img_view160cc490070e4c.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 8.599999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71965/280.street_img_view160c95fe484ae8.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 8.599999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/71958/280.street_img_view160c964cdd4fee.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 8.599999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72024/280.street_img_view160cc4156e7f39.jpg?20210617093525",
+        "average_temperature": 21.9,
+        "temperature_difference": 5.399999999999999,
+        "cluster": 1
+    },
+    {
+        "date": "2021-06-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72034/280.street_img_view160cc3f50ea9aa.jpg?20210618153929",
+        "average_temperature": 21.9,
+        "temperature_difference": 5.399999999999999,
+        "cluster": 1
+    },
+    {
+        "date": "2021-06-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72028/280.street_img_view160caa4ea86848.jpg?20210617094719",
+        "average_temperature": 21.9,
+        "temperature_difference": 5.399999999999999,
+        "cluster": 1
+    },
+    {
+        "date": "2021-06-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72026/280.street_img_view160caa72807ee7.jpg?20210617094027",
+        "average_temperature": 21.9,
+        "temperature_difference": 5.399999999999999,
+        "cluster": 1
+    },
+    {
+        "date": "2021-06-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72001/280.street_img_view160cab1f439beb.jpg?",
+        "average_temperature": 21.9,
+        "temperature_difference": 5.399999999999999,
+        "cluster": 1
+    },
+    {
+        "date": "2021-06-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72136/280.street_img_view160d151f333eb5.jpg?20210622152115",
+        "average_temperature": 22.8,
+        "temperature_difference": 8.900000000000002,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72134/280.street_img_view160d154519ee4e.jpg?",
+        "average_temperature": 22.8,
+        "temperature_difference": 8.900000000000002,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72195/280.street_img_view160da84315c8d7.jpg?",
+        "average_temperature": 22.4,
+        "temperature_difference": 9.099999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72181/280.street_img_view160d424eeb5cc7.jpg?",
+        "average_temperature": 22.4,
+        "temperature_difference": 9.099999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72284/280.street_img_view160d53e0a27e8a.jpg?20210624094404",
+        "average_temperature": 23.0,
+        "temperature_difference": 9.5,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72282/280.street_img_view160d53fa6bff59.jpg?",
+        "average_temperature": 23.0,
+        "temperature_difference": 9.5,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72291/280.street_img_view260d5340118b8e.jpg?20210625104037",
+        "average_temperature": 23.0,
+        "temperature_difference": 9.5,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72288/280.street_img_view160d3ee94c607a.jpg?",
+        "average_temperature": 23.0,
+        "temperature_difference": 9.5,
+        "cluster": 8
+    },
+    {
+        "date": "2021-06-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72334/280.street_img_view160d989eec0086.jpg?",
+        "average_temperature": 23.7,
+        "temperature_difference": 8.2,
+        "cluster": 2
+    },
+    {
+        "date": "2021-06-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72352/280.street_img_view160d9835cbb498.jpg?20210628092233",
+        "average_temperature": 23.7,
+        "temperature_difference": 8.2,
+        "cluster": 2
+    },
+    {
+        "date": "2021-06-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72457/280.street_img_view160dbce31c7a5a.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 7.800000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2021-07-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/72561/280.street_img_view160e28a1aa00d5.jpg?",
+        "average_temperature": 23.3,
+        "temperature_difference": 6.799999999999997,
+        "cluster": 2
+    },
+    {
+        "date": "2021-11-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/76095/280.street_img_view16183650ddeb47.jpg?20211104134515",
+        "average_temperature": 12.1,
+        "temperature_difference": 7.9,
+        "cluster": 7
+    },
+    {
+        "date": "2020-03-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/59468/280.street_img_view15e61ca69b909d.jpg?20200819095111",
+        "average_temperature": 3.7,
+        "temperature_difference": 12.6,
+        "cluster": 6
+    },
+    {
+        "date": "2020-03-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/59468/280.street_img_view25e61ca784d6b8.jpg?20200819095111",
+        "average_temperature": 3.7,
+        "temperature_difference": 12.6,
+        "cluster": 6
+    },
+    {
+        "date": "2020-03-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/59592/280.street_img_view15e69edd05bbe8.jpg?20200819095302",
+        "average_temperature": 3.8,
+        "temperature_difference": 8.3,
+        "cluster": 5
+    },
+    {
+        "date": "2020-04-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/60358/280.street_img_view15e8edb126e56e.jpg?20200819100608",
+        "average_temperature": 8.9,
+        "temperature_difference": 10.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-04-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/60497/280.street_img_view15e956d03cbff1.jpg?20200819100822",
+        "average_temperature": 13.0,
+        "temperature_difference": 12.000000000000002,
+        "cluster": 4
+    },
+    {
+        "date": "2020-04-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/60679/280.street_img_view15e9fbf334af7b.jpg?20200819101053",
+        "average_temperature": 7.4,
+        "temperature_difference": 5.6000000000000005,
+        "cluster": 5
+    },
+    {
+        "date": "2020-04-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/60850/280.street_img_view15ecf68b54239c.jpg?20200819101259",
+        "average_temperature": 12.9,
+        "temperature_difference": 9.6,
+        "cluster": 0
+    },
+    {
+        "date": "2020-05-01",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/60950/280.street_img_view15eb261d17f686.jpg?20200819101435",
+        "average_temperature": 20.2,
+        "temperature_difference": 9.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-05-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/61471/280.street_img_view15ecf5641008a8.jpg?20200819102353",
+        "average_temperature": 18.7,
+        "temperature_difference": 9.2,
+        "cluster": 8
+    },
+    {
+        "date": "2020-05-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/61466/280.street_img_view15ecf68668f225.jpg?20200819102346",
+        "average_temperature": 18.7,
+        "temperature_difference": 9.2,
+        "cluster": 8
+    },
+    {
+        "date": "2020-06-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/61751/280.street_img_view15ee1a1afe1c1f.jpg?20200819102852",
+        "average_temperature": 25.8,
+        "temperature_difference": 9.6,
+        "cluster": 8
+    },
+    {
+        "date": "2020-06-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/61769/280.street_img_view15ee1c589674b7.jpg?20200819102917",
+        "average_temperature": 26.1,
+        "temperature_difference": 9.900000000000002,
+        "cluster": 8
+    },
+    {
+        "date": "2020-06-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/61763/280.street_img_view15ee1a8a72acc7.jpg?20200819102908",
+        "average_temperature": 26.1,
+        "temperature_difference": 9.900000000000002,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62263/280.street_img_view15efd3095e281f.jpg?20200702142430",
+        "average_temperature": 24.2,
+        "temperature_difference": 9.400000000000002,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62328/280.street_img_view25f0559556c47e.jpg?",
+        "average_temperature": 25.6,
+        "temperature_difference": 9.099999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62324/280.street_img_view25f055e423d0f1.jpg?20200708145119",
+        "average_temperature": 25.6,
+        "temperature_difference": 9.099999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62304/280.street_img_view15f05525db27d2.jpg?",
+        "average_temperature": 25.6,
+        "temperature_difference": 9.099999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62357/280.street_img_view15f056c7fd33db.jpg?",
+        "average_temperature": 24.1,
+        "temperature_difference": 6.0,
+        "cluster": 2
+    },
+    {
+        "date": "2020-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62509/280.street_img_view15f0d51b84e2be.jpg?",
+        "average_temperature": 20.3,
+        "temperature_difference": 7.100000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62511/280.street_img_view15f0d501a11836.jpg?",
+        "average_temperature": 20.3,
+        "temperature_difference": 7.100000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62515/280.street_img_view15f0d4bf244414.jpg?",
+        "average_temperature": 20.3,
+        "temperature_difference": 7.100000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62522/280.street_img_view15f0d46cfdb1b9.jpg?",
+        "average_temperature": 20.3,
+        "temperature_difference": 7.100000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62521/280.street_img_view15f0d47508887d.jpg?",
+        "average_temperature": 20.3,
+        "temperature_difference": 7.100000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62520/280.street_img_view15f0d47b455824.jpg?",
+        "average_temperature": 20.3,
+        "temperature_difference": 7.100000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62526/280.street_img_view15f0d4194abe8b.jpg?20200714175110",
+        "average_temperature": 20.3,
+        "temperature_difference": 7.100000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62524/280.street_img_view15f0d432e0dba3.jpg?",
+        "average_temperature": 20.3,
+        "temperature_difference": 7.100000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-07-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62530/280.street_img_view15f0d3c2daf8b8.jpg?",
+        "average_temperature": 20.3,
+        "temperature_difference": 7.100000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-07-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62549/280.street_img_view15f0ebc14a844c.jpg?",
+        "average_temperature": 23.4,
+        "temperature_difference": 9.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62548/280.street_img_view15f0ebd56d314b.jpg?",
+        "average_temperature": 23.4,
+        "temperature_difference": 9.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62547/280.street_img_view15f0ebdb61239c.jpg?",
+        "average_temperature": 23.4,
+        "temperature_difference": 9.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62553/280.street_img_view15f0eb821886c4.jpg?",
+        "average_temperature": 23.4,
+        "temperature_difference": 9.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62551/280.street_img_view15f0eba10687d0.jpg?",
+        "average_temperature": 23.4,
+        "temperature_difference": 9.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62565/280.street_img_view15f0ea7dac3f53.jpg?",
+        "average_temperature": 23.4,
+        "temperature_difference": 9.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62568/280.street_img_view15f0ea452efa7e.jpg?",
+        "average_temperature": 23.4,
+        "temperature_difference": 9.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62543/280.street_img_view15f0ebf939c673.jpg?20200715180640",
+        "average_temperature": 23.4,
+        "temperature_difference": 9.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62541/280.street_img_view15f1134f4c3197.jpg?",
+        "average_temperature": 23.4,
+        "temperature_difference": 9.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62576/280.street_img_view25f169dfc4e04e.jpg?",
+        "average_temperature": 25.0,
+        "temperature_difference": 9.3,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62579/280.street_img_view15f0fea300925e.jpg?",
+        "average_temperature": 25.0,
+        "temperature_difference": 9.3,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62596/280.street_img_view15f0fc5a4722c1.jpg?",
+        "average_temperature": 25.0,
+        "temperature_difference": 9.3,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62601/280.street_img_view15f0fc0edc8170.jpg?",
+        "average_temperature": 25.0,
+        "temperature_difference": 9.3,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62600/280.street_img_view15f0fc2107484e.jpg?",
+        "average_temperature": 25.0,
+        "temperature_difference": 9.3,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62598/280.street_img_view15f0fc3d21ee52.jpg?20200722092451",
+        "average_temperature": 25.0,
+        "temperature_difference": 9.3,
+        "cluster": 8
+    },
+    {
+        "date": "2020-07-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62661/280.street_img_view15f155d17dac1e.jpg?20200720180058",
+        "average_temperature": 26.1,
+        "temperature_difference": 8.2,
+        "cluster": 2
+    },
+    {
+        "date": "2020-07-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62645/280.street_img_view15f169aa091ad8.jpg?",
+        "average_temperature": 23.8,
+        "temperature_difference": 4.200000000000003,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62735/280.street_img_view15f18fae38e7a0.jpg?",
+        "average_temperature": 23.7,
+        "temperature_difference": 3.099999999999998,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62731/280.street_img_view15f17eefb18cee.jpg?",
+        "average_temperature": 23.7,
+        "temperature_difference": 3.099999999999998,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62727/280.street_img_view15f17f195536f6.jpg?",
+        "average_temperature": 23.7,
+        "temperature_difference": 3.099999999999998,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62743/280.street_img_view15f17ebafeff53.jpg?",
+        "average_temperature": 23.7,
+        "temperature_difference": 3.099999999999998,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62741/280.street_img_view15f17eb1e3b42a.jpg?",
+        "average_temperature": 23.7,
+        "temperature_difference": 3.099999999999998,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62786/280.street_img_view15f18f3e2e63c4.jpg?",
+        "average_temperature": 21.1,
+        "temperature_difference": 4.100000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62828/280.street_img_view15f1e613114274.jpg?20200727140849",
+        "average_temperature": 24.3,
+        "temperature_difference": 2.6000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62822/280.street_img_view15f1e244538d40.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 2.6000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62836/280.street_img_view15f1e6e811d2b7.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 2.6000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62941/280.street_img_view15f20cf52dea73.jpg?",
+        "average_temperature": 24.4,
+        "temperature_difference": 3.6999999999999993,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62947/280.street_img_view15f20cbf742eba.jpg?",
+        "average_temperature": 23.7,
+        "temperature_difference": 2.299999999999997,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62971/280.street_img_view15f211fbdf2e68.jpg?20200729124855",
+        "average_temperature": 23.7,
+        "temperature_difference": 2.299999999999997,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62989/280.street_img_view15f22558df39da.jpg?",
+        "average_temperature": 25.3,
+        "temperature_difference": 5.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-07-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/62996/280.street_img_view15f221c26cdbb6.jpg?",
+        "average_temperature": 25.3,
+        "temperature_difference": 5.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63047/280.street_img_view15f2b6e4da1b82.jpg?",
+        "average_temperature": 24.9,
+        "temperature_difference": 2.8999999999999986,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63068/280.street_img_view15f2b6f1a6dc93.jpg?",
+        "average_temperature": 25.0,
+        "temperature_difference": 2.400000000000002,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63084/280.street_img_view15f2758aef30c3.jpg?",
+        "average_temperature": 25.0,
+        "temperature_difference": 2.400000000000002,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63083/280.street_img_view15f275b3314991.jpg?",
+        "average_temperature": 25.0,
+        "temperature_difference": 2.400000000000002,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63136/280.street_img_view15f290c022d2f7.jpg?",
+        "average_temperature": 27.0,
+        "temperature_difference": 4.399999999999999,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63170/280.street_img_view15f2a5e50c5fe5.jpg?",
+        "average_temperature": 26.5,
+        "temperature_difference": 3.6000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63172/280.street_img_view15f2a5dda187f0.jpg?",
+        "average_temperature": 26.5,
+        "temperature_difference": 3.6000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63183/280.street_img_view15f2a60564bc68.jpg?",
+        "average_temperature": 26.5,
+        "temperature_difference": 3.6000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63182/280.street_img_view15f2a61fe78a4f.jpg?",
+        "average_temperature": 26.5,
+        "temperature_difference": 3.6000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63178/280.street_img_view15f2a639217e2a.jpg?",
+        "average_temperature": 26.5,
+        "temperature_difference": 3.6000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63220/280.street_img_view15f2d08346e01a.jpg?",
+        "average_temperature": 24.1,
+        "temperature_difference": 3.1000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63215/280.street_img_view15f2b6c147c82d.jpg?",
+        "average_temperature": 24.1,
+        "temperature_difference": 3.1000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63234/280.street_img_view15f2b611f05b9c.jpg?",
+        "average_temperature": 24.1,
+        "temperature_difference": 3.1000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63256/280.street_img_view15f2ca62d210c3.jpg?20200807095333",
+        "average_temperature": 24.3,
+        "temperature_difference": 3.5,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63297/280.street_img_view15f30d297dc5dd.jpg?",
+        "average_temperature": 26.5,
+        "temperature_difference": 4.800000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63285/280.street_img_view15f30b8305933b.jpg?",
+        "average_temperature": 26.5,
+        "temperature_difference": 4.800000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63282/280.street_img_view15f309bb38a166.jpg?",
+        "average_temperature": 26.5,
+        "temperature_difference": 4.800000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63271/280.street_img_view15f30ac97eeb02.jpg?",
+        "average_temperature": 26.5,
+        "temperature_difference": 4.800000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63270/280.street_img_view15f30ba515935e.jpg?",
+        "average_temperature": 26.5,
+        "temperature_difference": 4.800000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63268/280.street_img_view15f30bccfa6de6.jpg?",
+        "average_temperature": 26.5,
+        "temperature_difference": 4.800000000000001,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63323/280.street_img_view15f3233a169294.jpg?",
+        "average_temperature": 24.6,
+        "temperature_difference": 4.900000000000002,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63316/280.street_img_view15f323675ee953.jpg?",
+        "average_temperature": 24.6,
+        "temperature_difference": 4.900000000000002,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63313/280.street_img_view15f3244a3e89b2.jpg?",
+        "average_temperature": 24.6,
+        "temperature_difference": 4.900000000000002,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63312/280.street_img_view15f3237c2759b3.jpg?",
+        "average_temperature": 24.6,
+        "temperature_difference": 4.900000000000002,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63361/280.street_img_view15f334abfd9762.jpg?",
+        "average_temperature": 27.2,
+        "temperature_difference": 7.800000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63360/280.street_img_view15f333ad51e555.jpg?",
+        "average_temperature": 27.2,
+        "temperature_difference": 7.800000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63359/280.street_img_view15f333ebe7d6a5.jpg?",
+        "average_temperature": 27.2,
+        "temperature_difference": 7.800000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63357/280.street_img_view15f333b51a03a1.jpg?",
+        "average_temperature": 27.2,
+        "temperature_difference": 7.800000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63399/280.street_img_view15f34a8cc9e545.jpg?",
+        "average_temperature": 28.0,
+        "temperature_difference": 4.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63411/280.street_img_view15f349baf12b4f.jpg?",
+        "average_temperature": 28.0,
+        "temperature_difference": 4.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63409/280.street_img_view15f349c8820cd2.jpg?",
+        "average_temperature": 28.0,
+        "temperature_difference": 4.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63433/280.street_img_view15f3f8a1a52cea.jpg?20200817011946",
+        "average_temperature": 27.4,
+        "temperature_difference": 5.5,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63496/280.street_img_view15f3e144d0dd6d.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 7.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63442/280.street_img_view15f3ccc1722dc7.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 7.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63453/280.street_img_view15f3b311f0cf6a.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 7.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63457/280.street_img_view15f3b4572d790a.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 7.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63462/280.street_img_view15f3b2e794574f.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 7.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63474/280.street_img_view15f3b49c913219.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 7.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63470/280.street_img_view15f3b27b80a91d.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 7.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63469/280.street_img_view15f3b29567043e.jpg?",
+        "average_temperature": 27.5,
+        "temperature_difference": 7.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63481/280.street_img_view15f3c83414b126.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 7.799999999999997,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63476/280.street_img_view15f3c8dfeb64ac.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 7.799999999999997,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63486/280.street_img_view15f3cc87094e5b.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 7.799999999999997,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63495/280.street_img_view15f3c7d6d9e452.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 7.799999999999997,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63490/280.street_img_view15f3c8973a0080.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 7.799999999999997,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63631/280.street_img_view15f4c6ed2cb8c5.jpg?20200824123507",
+        "average_temperature": 27.8,
+        "temperature_difference": 8.3,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63609/280.street_img_view15f43778f5d1aa.jpg?",
+        "average_temperature": 27.8,
+        "temperature_difference": 8.3,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63616/280.street_img_view15f4374dfdb3fa.jpg?",
+        "average_temperature": 27.8,
+        "temperature_difference": 8.3,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63667/280.street_img_view15f4da60b6a0fe.jpg?",
+        "average_temperature": 29.9,
+        "temperature_difference": 8.5,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63649/280.street_img_view15f4c831d46efc.jpg?",
+        "average_temperature": 29.9,
+        "temperature_difference": 8.5,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63659/280.street_img_view15f44819a05e03.jpg?",
+        "average_temperature": 29.9,
+        "temperature_difference": 8.5,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63658/280.street_img_view15f44824fe3bde.jpg?20200825092220",
+        "average_temperature": 29.9,
+        "temperature_difference": 8.5,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-26",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63717/280.street_img_view15f45b2a5780dc.jpg?",
+        "average_temperature": 30.2,
+        "temperature_difference": 7.5,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63756/280.street_img_view15f4726c42cd45.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63763/280.street_img_view15f47264a48e3c.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63762/280.street_img_view15f471992dbae8.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63770/280.street_img_view15f4713e4975f6.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63774/280.street_img_view15f47102997075.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63773/280.street_img_view15f47110a6c765.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63771/280.street_img_view15f471307b6b49.jpg?",
+        "average_temperature": 27.1,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63786/280.street_img_view15f4729ac3b984.jpg?20200827115130",
+        "average_temperature": 27.1,
+        "temperature_difference": 3.0,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63821/280.street_img_view15f4858b33420c.jpg?20200828101052",
+        "average_temperature": 27.3,
+        "temperature_difference": 3.6999999999999993,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63820/280.street_img_view15f4858a178bbe.jpg?20200828101400",
+        "average_temperature": 27.3,
+        "temperature_difference": 3.6999999999999993,
+        "cluster": 1
+    },
+    {
+        "date": "2020-08-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63894/280.street_img_view15f4dda584830e.jpg?20200901142237",
+        "average_temperature": 26.4,
+        "temperature_difference": 6.199999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63849/280.street_img_view15f4c515bce101.jpg?",
+        "average_temperature": 26.4,
+        "temperature_difference": 6.199999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63847/280.street_img_view15f4c6443d6b48.jpg?",
+        "average_temperature": 26.4,
+        "temperature_difference": 6.199999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-08-31",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63858/280.street_img_view15f4c66ae4cf1b.jpg?",
+        "average_temperature": 26.4,
+        "temperature_difference": 6.199999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63942/280.street_img_view15f4f420f61eae.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 3.799999999999997,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63951/280.street_img_view15f4f0f5598a61.jpg?",
+        "average_temperature": 24.3,
+        "temperature_difference": 3.799999999999997,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63953/280.street_img_view15f4f3f24a1f98.jpg?20200902114730",
+        "average_temperature": 24.3,
+        "temperature_difference": 3.799999999999997,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/63985/280.street_img_view15f509467c0ded.jpg?",
+        "average_temperature": 22.7,
+        "temperature_difference": 5.600000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64073/280.street_img_view15f559f0a59c6f.jpg?",
+        "average_temperature": 19.2,
+        "temperature_difference": 3.1000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64077/280.street_img_view15f5595fc33640.jpg?",
+        "average_temperature": 19.2,
+        "temperature_difference": 3.1000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64075/280.street_img_view15f55ccdd20b14.jpg?",
+        "average_temperature": 19.2,
+        "temperature_difference": 3.1000000000000014,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-08",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64141/280.street_img_view15f5719ebcb63b.jpg?",
+        "average_temperature": 23.4,
+        "temperature_difference": 5.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-08",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64138/280.street_img_view15f571a9d5a0c6.jpg?",
+        "average_temperature": 23.4,
+        "temperature_difference": 5.899999999999999,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64165/280.street_img_view15f59baf6ad6d4.jpg?",
+        "average_temperature": 21.1,
+        "temperature_difference": 6.300000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64168/280.street_img_view15f58746dcf32d.jpg?",
+        "average_temperature": 21.1,
+        "temperature_difference": 6.300000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64186/280.street_img_view15f58795c64caa.jpg?20200909111912",
+        "average_temperature": 21.1,
+        "temperature_difference": 6.300000000000001,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64212/280.street_img_view15f5992127b62c.jpg?",
+        "average_temperature": 22.8,
+        "temperature_difference": 8.2,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64226/280.street_img_view15f599b604c15c.jpg?",
+        "average_temperature": 22.8,
+        "temperature_difference": 8.2,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64254/280.street_img_view15f5f069c4184a.jpg?",
+        "average_temperature": 22.4,
+        "temperature_difference": 7.900000000000002,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64242/280.street_img_view15f5aca3a29730.jpg?20200911095535",
+        "average_temperature": 22.4,
+        "temperature_difference": 7.900000000000002,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64288/280.street_img_view15f62d2c466c42.jpg?",
+        "average_temperature": 21.3,
+        "temperature_difference": 7.299999999999997,
+        "cluster": 2
+    },
+    {
+        "date": "2020-09-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64310/280.street_img_view15f603305785fb.jpg?",
+        "average_temperature": 23.0,
+        "temperature_difference": 8.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-09-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64335/280.street_img_view15f60296acaf69.jpg?",
+        "average_temperature": 23.0,
+        "temperature_difference": 8.8,
+        "cluster": 8
+    },
+    {
+        "date": "2020-09-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64380/280.street_img_view15f6162f680922.jpg?",
+        "average_temperature": 22.5,
+        "temperature_difference": 3.599999999999998,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64403/280.street_img_view15f6175b0147a7.jpg?20200916110702",
+        "average_temperature": 22.5,
+        "temperature_difference": 3.599999999999998,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64448/280.street_img_view15f6965eb4c5f7.jpg?",
+        "average_temperature": 21.3,
+        "temperature_difference": 3.5,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64475/280.street_img_view15f64051a489ca.jpg?20200918095558",
+        "average_temperature": 21.3,
+        "temperature_difference": 3.5,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64428/280.street_img_view15f62b62e56398.jpg?",
+        "average_temperature": 21.3,
+        "temperature_difference": 3.5,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64424/280.street_img_view15f62bb258ce43.jpg?",
+        "average_temperature": 21.3,
+        "temperature_difference": 3.5,
+        "cluster": 1
+    },
+    {
+        "date": "2020-09-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64498/280.street_img_view15f6803ddb292a.jpg?",
+        "average_temperature": 19.1,
+        "temperature_difference": 11.7,
+        "cluster": 4
+    },
+    {
+        "date": "2020-09-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64501/280.street_img_view15f6812910d69f.jpg?",
+        "average_temperature": 19.1,
+        "temperature_difference": 11.7,
+        "cluster": 4
+    },
+    {
+        "date": "2020-09-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64525/280.street_img_view15f695a25169c7.jpg?",
+        "average_temperature": 20.2,
+        "temperature_difference": 10.1,
+        "cluster": 8
+    },
+    {
+        "date": "2020-09-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64545/280.street_img_view15f69510eede8b.jpg?",
+        "average_temperature": 20.2,
+        "temperature_difference": 10.1,
+        "cluster": 8
+    },
+    {
+        "date": "2020-09-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64544/280.street_img_view15f6951e0846ad.jpg?",
+        "average_temperature": 20.2,
+        "temperature_difference": 10.1,
+        "cluster": 8
+    },
+    {
+        "date": "2020-09-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64544/280.street_img_view25f6951f7edf1b.jpg?",
+        "average_temperature": 20.2,
+        "temperature_difference": 10.1,
+        "cluster": 8
+    },
+    {
+        "date": "2020-09-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64578/280.street_img_view15f6adc935416c.jpg?",
+        "average_temperature": 19.2,
+        "temperature_difference": 8.600000000000001,
+        "cluster": 8
+    },
+    {
+        "date": "2020-09-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64609/280.street_img_view15f6ab4a9e5b4d.jpg?",
+        "average_temperature": 19.2,
+        "temperature_difference": 8.600000000000001,
+        "cluster": 8
+    },
+    {
+        "date": "2020-09-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64615/280.street_img_view15f6aafae42045.jpg?20200923110805",
+        "average_temperature": 19.2,
+        "temperature_difference": 8.600000000000001,
+        "cluster": 8
+    },
+    {
+        "date": "2020-09-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64651/280.street_img_view15f6bf8d04747b.jpg?",
+        "average_temperature": 20.6,
+        "temperature_difference": 8.599999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2020-09-24",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64656/280.street_img_view15f6bf3d9dcbd8.jpg?",
+        "average_temperature": 20.6,
+        "temperature_difference": 8.599999999999998,
+        "cluster": 8
+    },
+    {
+        "date": "2020-10-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64805/280.street_img_view15f7a7f786fefc.jpg?",
+        "average_temperature": 13.3,
+        "temperature_difference": 9.9,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64816/280.street_img_view15f7a83c638e62.jpg?",
+        "average_temperature": 13.3,
+        "temperature_difference": 9.9,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64816/280.street_img_view25f7a83d818e08.jpg?",
+        "average_temperature": 13.3,
+        "temperature_difference": 9.9,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64814/280.street_img_view15f7a87fe48d10.jpg?",
+        "average_temperature": 13.3,
+        "temperature_difference": 9.9,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64861/280.street_img_view15f7d7dab6a969.jpg?",
+        "average_temperature": 14.2,
+        "temperature_difference": 10.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64843/280.street_img_view15f7c0a24dfdda.jpg?",
+        "average_temperature": 14.2,
+        "temperature_difference": 10.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64860/280.street_img_view15f7be415e9337.jpg?",
+        "average_temperature": 14.2,
+        "temperature_difference": 10.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64865/280.street_img_view15f7be30e8f425.jpg?",
+        "average_temperature": 14.2,
+        "temperature_difference": 10.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64927/280.street_img_view15f83b9c9b6518.jpg?20201007092838",
+        "average_temperature": 16.0,
+        "temperature_difference": 12.1,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-08",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/64948/280.street_img_view15f83b8fcc72a8.jpg?",
+        "average_temperature": 17.2,
+        "temperature_difference": 11.000000000000002,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65019/280.street_img_view15f8417c33dab6.jpg?",
+        "average_temperature": 16.2,
+        "temperature_difference": 9.2,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65021/280.street_img_view15f83ac3477b44.jpg?",
+        "average_temperature": 16.2,
+        "temperature_difference": 9.2,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65016/280.street_img_view15f83acf2f20ae.jpg?",
+        "average_temperature": 16.2,
+        "temperature_difference": 9.2,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65012/280.street_img_view15f83ae0a4e408.jpg?",
+        "average_temperature": 16.2,
+        "temperature_difference": 9.2,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65096/280.street_img_view15f87abcf8c11e.jpg?20201013105031",
+        "average_temperature": 13.6,
+        "temperature_difference": 9.8,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65088/280.street_img_view15f84f6dfea343.jpg?",
+        "average_temperature": 13.6,
+        "temperature_difference": 9.8,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65086/280.street_img_view15f84f970bbfc6.jpg?",
+        "average_temperature": 13.6,
+        "temperature_difference": 9.8,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65082/280.street_img_view15f84fae9afea3.jpg?20201021161605",
+        "average_temperature": 13.6,
+        "temperature_difference": 9.8,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-13",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65063/280.street_img_view15f851533558a4.jpg?",
+        "average_temperature": 13.6,
+        "temperature_difference": 9.8,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-14",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65123/280.street_img_view15f8669094df3f.jpg?",
+        "average_temperature": 12.8,
+        "temperature_difference": 9.5,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65221/280.street_img_view15f88ebc49c110.jpg?20201016094038",
+        "average_temperature": 11.7,
+        "temperature_difference": 12.0,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65177/280.street_img_view15f87a44bcf2ea.jpg?",
+        "average_temperature": 11.7,
+        "temperature_difference": 12.0,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65186/280.street_img_view15f87bf2d7baa9.jpg?",
+        "average_temperature": 11.7,
+        "temperature_difference": 12.0,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65205/280.street_img_view15f87bc167f17d.jpg?",
+        "average_temperature": 11.7,
+        "temperature_difference": 12.0,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65202/280.street_img_view15f87d5e79fa53.jpg?",
+        "average_temperature": 11.7,
+        "temperature_difference": 12.0,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65201/280.street_img_view15f87bcf647a6f.jpg?",
+        "average_temperature": 11.7,
+        "temperature_difference": 12.0,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-19",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65263/280.street_img_view15f98d519bc6dd.jpg?",
+        "average_temperature": 15.1,
+        "temperature_difference": 11.5,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65302/280.street_img_view15f8fa07775f80.jpg?",
+        "average_temperature": 15.2,
+        "temperature_difference": 11.8,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65300/280.street_img_view15f8e5405c67ee.jpg?",
+        "average_temperature": 15.2,
+        "temperature_difference": 11.8,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-20",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65298/280.street_img_view15f8e5478b4e89.jpg?",
+        "average_temperature": 15.2,
+        "temperature_difference": 11.8,
+        "cluster": 4
+    },
+    {
+        "date": "2020-10-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65373/280.street_img_view15f98d449ae149.jpg?",
+        "average_temperature": 14.1,
+        "temperature_difference": 5.5,
+        "cluster": 7
+    },
+    {
+        "date": "2020-10-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65380/280.street_img_view15f8ff59b6ad33.jpg?",
+        "average_temperature": 14.1,
+        "temperature_difference": 5.5,
+        "cluster": 7
+    },
+    {
+        "date": "2020-10-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65415/280.street_img_view15f8f88757335a.jpg?20201028114035",
+        "average_temperature": 14.1,
+        "temperature_difference": 5.5,
+        "cluster": 7
+    },
+    {
+        "date": "2020-10-21",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65412/280.street_img_view15f8f8a08d0140.jpg?",
+        "average_temperature": 14.1,
+        "temperature_difference": 5.5,
+        "cluster": 7
+    },
+    {
+        "date": "2020-10-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65492/280.street_img_view15f92358d8c33d.jpg?20201023104633",
+        "average_temperature": 13.5,
+        "temperature_difference": 9.8,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65473/280.street_img_view15f90f2fd5d101.jpg?20201022102607",
+        "average_temperature": 13.5,
+        "temperature_difference": 9.8,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65583/280.street_img_view15f98d10f18195.jpg?",
+        "average_temperature": 14.0,
+        "temperature_difference": 10.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65583/280.street_img_view25f98d11fe6625.jpg?",
+        "average_temperature": 14.0,
+        "temperature_difference": 10.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65574/280.street_img_view15f97717336e52.jpg?",
+        "average_temperature": 14.0,
+        "temperature_difference": 10.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65580/280.street_img_view15f9770984573f.jpg?",
+        "average_temperature": 14.0,
+        "temperature_difference": 10.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65745/280.street_img_view15f9f683aa3a0c.jpg?",
+        "average_temperature": 10.8,
+        "temperature_difference": 10.6,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65709/280.street_img_view15f9a1b70204f2.jpg?",
+        "average_temperature": 10.8,
+        "temperature_difference": 10.6,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65703/280.street_img_view15f9a2224c73c0.jpg?",
+        "average_temperature": 10.8,
+        "temperature_difference": 10.6,
+        "cluster": 0
+    },
+    {
+        "date": "2020-10-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65701/280.street_img_view15f9a21b680c18.jpg?",
+        "average_temperature": 10.8,
+        "temperature_difference": 10.6,
+        "cluster": 0
+    },
+    {
+        "date": "2020-11-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65781/280.street_img_view15f9f616fac2cc.jpg?",
+        "average_temperature": 10.8,
+        "temperature_difference": 7.699999999999999,
+        "cluster": 7
+    },
+    {
+        "date": "2020-11-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65834/280.street_img_view15fa104a026665.jpg?",
+        "average_temperature": 5.1,
+        "temperature_difference": 5.9,
+        "cluster": 5
+    },
+    {
+        "date": "2020-11-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65825/280.street_img_view15fa10080d9478.jpg?20201103063449",
+        "average_temperature": 5.1,
+        "temperature_difference": 5.9,
+        "cluster": 5
+    },
+    {
+        "date": "2020-11-05",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/65956/280.street_img_view15fa3a1e11d625.jpg?",
+        "average_temperature": 9.6,
+        "temperature_difference": 12.5,
+        "cluster": 4
+    },
+    {
+        "date": "2020-11-06",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66004/280.street_img_view15fa4a2eae8db7.jpg?20201106101756",
+        "average_temperature": 13.5,
+        "temperature_difference": 7.299999999999999,
+        "cluster": 7
+    },
+    {
+        "date": "2020-11-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66032/280.street_img_view15faa32ba90270.jpg?",
+        "average_temperature": 5.5,
+        "temperature_difference": 8.200000000000001,
+        "cluster": 5
+    },
+    {
+        "date": "2020-11-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66086/280.street_img_view25faa1e887329b.jpg?20201110101211",
+        "average_temperature": 7.7,
+        "temperature_difference": 9.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-11-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66059/280.street_img_view25faa20e9274d5.jpg?",
+        "average_temperature": 7.7,
+        "temperature_difference": 9.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-11-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66058/280.street_img_view15faa2222dbc7c.jpg?",
+        "average_temperature": 7.7,
+        "temperature_difference": 9.4,
+        "cluster": 0
+    },
+    {
+        "date": "2020-11-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66118/280.street_img_view15fb35557e1201.jpg?",
+        "average_temperature": 9.3,
+        "temperature_difference": 13.0,
+        "cluster": 4
+    },
+    {
+        "date": "2020-11-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66124/280.street_img_view15fab56fbbe073.jpg?",
+        "average_temperature": 9.3,
+        "temperature_difference": 13.0,
+        "cluster": 4
+    },
+    {
+        "date": "2020-11-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66120/280.street_img_view15fab59bac541a.jpg?",
+        "average_temperature": 9.3,
+        "temperature_difference": 13.0,
+        "cluster": 4
+    },
+    {
+        "date": "2020-11-11",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66158/280.street_img_view15fab7a2aec82f.jpg?",
+        "average_temperature": 9.3,
+        "temperature_difference": 13.0,
+        "cluster": 4
+    },
+    {
+        "date": "2020-11-12",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66191/280.street_img_view15fac86daaf501.jpg?",
+        "average_temperature": 10.4,
+        "temperature_difference": 13.1,
+        "cluster": 4
+    },
+    {
+        "date": "2020-11-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66221/280.street_img_view15fb1d23bc56bd.jpg?",
+        "average_temperature": 12.4,
+        "temperature_difference": 10.8,
+        "cluster": 0
+    },
+    {
+        "date": "2020-11-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66247/280.street_img_view15fb1ea8246bf8.jpg?",
+        "average_temperature": 12.4,
+        "temperature_difference": 10.8,
+        "cluster": 0
+    },
+    {
+        "date": "2020-11-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66235/280.street_img_view15fb1e24fcbdbc.jpg?",
+        "average_temperature": 12.4,
+        "temperature_difference": 10.8,
+        "cluster": 0
+    },
+    {
+        "date": "2020-11-16",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66229/280.street_img_view15fb1d6b29bc32.jpg?",
+        "average_temperature": 12.4,
+        "temperature_difference": 10.8,
+        "cluster": 0
+    },
+    {
+        "date": "2020-11-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66329/280.street_img_view25fb4adfaec78e.jpg?",
+        "average_temperature": 16.6,
+        "temperature_difference": 3.899999999999999,
+        "cluster": 1
+    },
+    {
+        "date": "2020-11-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66326/280.street_img_view15fb490bf84d0a.jpg?",
+        "average_temperature": 16.6,
+        "temperature_difference": 3.899999999999999,
+        "cluster": 1
+    },
+    {
+        "date": "2020-11-23",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66395/280.street_img_view15fbb499801b3c.jpg?",
+        "average_temperature": 1.7,
+        "temperature_difference": 7.4,
+        "cluster": 5
+    },
+    {
+        "date": "2020-11-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66527/280.street_img_view15fbe0bf079967.jpg?",
+        "average_temperature": 4.6,
+        "temperature_difference": 9.5,
+        "cluster": 6
+    },
+    {
+        "date": "2020-11-25",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66495/280.street_img_view15fbdc72fc0dcc.jpg?",
+        "average_temperature": 4.6,
+        "temperature_difference": 9.5,
+        "cluster": 6
+    },
+    {
+        "date": "2020-11-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66593/280.street_img_view15fc05ca24d4d4.jpg?20201127105743",
+        "average_temperature": 4.1,
+        "temperature_difference": 7.1000000000000005,
+        "cluster": 5
+    },
+    {
+        "date": "2020-11-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66595/280.street_img_view15fc05b51cc6af.jpg?20201127104939",
+        "average_temperature": 4.1,
+        "temperature_difference": 7.1000000000000005,
+        "cluster": 5
+    },
+    {
+        "date": "2020-11-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66595/280.street_img_view25fc058ae9004e.jpg?20201127104939",
+        "average_temperature": 4.1,
+        "temperature_difference": 7.1000000000000005,
+        "cluster": 5
+    },
+    {
+        "date": "2020-11-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66603/280.street_img_view15fc04bd95d675.jpg?20201127094805",
+        "average_temperature": 4.1,
+        "temperature_difference": 7.1000000000000005,
+        "cluster": 5
+    },
+    {
+        "date": "2020-11-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66601/280.street_img_view15fc050367b157.jpg?20201127100511",
+        "average_temperature": 4.1,
+        "temperature_difference": 7.1000000000000005,
+        "cluster": 5
+    },
+    {
+        "date": "2020-11-27",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66601/280.street_img_view25fc050447e807.jpg?20201127100511",
+        "average_temperature": 4.1,
+        "temperature_difference": 7.1000000000000005,
+        "cluster": 5
+    },
+    {
+        "date": "2020-11-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66621/280.street_img_view15fc9f975c4cc9.jpg?",
+        "average_temperature": -0.2,
+        "temperature_difference": 7.9,
+        "cluster": 5
+    },
+    {
+        "date": "2020-11-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66640/280.street_img_view15fc4623f7e05d.jpg?",
+        "average_temperature": -0.2,
+        "temperature_difference": 7.9,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-01",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66685/280.street_img_view15fd848487efb8.jpg?20201215142517",
+        "average_temperature": 1.1,
+        "temperature_difference": 10.3,
+        "cluster": 6
+    },
+    {
+        "date": "2020-12-01",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66673/280.street_img_view15fc5aacd5acf0.jpg?",
+        "average_temperature": 1.1,
+        "temperature_difference": 10.3,
+        "cluster": 6
+    },
+    {
+        "date": "2020-12-01",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66671/280.street_img_view15fc5b13c2c431.jpg?",
+        "average_temperature": 1.1,
+        "temperature_difference": 10.3,
+        "cluster": 6
+    },
+    {
+        "date": "2020-12-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66703/280.street_img_view15fc9f894dfb3c.jpg?",
+        "average_temperature": 2.4,
+        "temperature_difference": 5.6,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-02",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66720/280.street_img_view15fc6d747148d1.jpg?",
+        "average_temperature": 2.4,
+        "temperature_difference": 5.6,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66745/280.street_img_view15fc87677bc900.jpg?",
+        "average_temperature": 0.7,
+        "temperature_difference": 6.5,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-03",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66734/280.street_img_view15fc87cd57fa6e.jpg?",
+        "average_temperature": 0.7,
+        "temperature_difference": 6.5,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66770/280.street_img_view15fc9953c10ed1.jpg?20201204105734",
+        "average_temperature": -0.6,
+        "temperature_difference": 9.0,
+        "cluster": 3
+    },
+    {
+        "date": "2020-12-04",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66775/280.street_img_view15fc99f7c0c6cc.jpg?20201204113219",
+        "average_temperature": -0.6,
+        "temperature_difference": 9.0,
+        "cluster": 3
+    },
+    {
+        "date": "2020-12-07",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66795/280.street_img_view15fe166b9c52a4.jpg?",
+        "average_temperature": 3.4,
+        "temperature_difference": 7.0,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-09",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66898/280.street_img_view15fd0593d4fcee.jpg?",
+        "average_temperature": 1.5,
+        "temperature_difference": 10.3,
+        "cluster": 6
+    },
+    {
+        "date": "2020-12-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66914/280.street_img_view15fe16661e79a0.jpg?",
+        "average_temperature": 5.8,
+        "temperature_difference": 6.1000000000000005,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-10",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/66930/280.street_img_view15fd3283ac9a55.jpg?",
+        "average_temperature": 5.8,
+        "temperature_difference": 6.1000000000000005,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-15",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67040/280.street_img_view15fd844b79b646.jpg?",
+        "average_temperature": -8.3,
+        "temperature_difference": 6.5,
+        "cluster": 3
+    },
+    {
+        "date": "2020-12-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67126/280.street_img_view15fdacf5c2560f.jpg?20201217122611",
+        "average_temperature": -4.9,
+        "temperature_difference": 11.9,
+        "cluster": 6
+    },
+    {
+        "date": "2020-12-17",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67120/280.street_img_view15fdadbd204ff6.jpg?",
+        "average_temperature": -4.9,
+        "temperature_difference": 11.9,
+        "cluster": 6
+    },
+    {
+        "date": "2020-12-18",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67143/280.street_img_view15fdc1c1632bdb.jpg?20201218120632",
+        "average_temperature": -2.1,
+        "temperature_difference": 8.200000000000001,
+        "cluster": 3
+    },
+    {
+        "date": "2020-12-22",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67216/280.street_img_view15fe16578f3edb.jpg?20201222121830",
+        "average_temperature": 2.0,
+        "temperature_difference": 9.7,
+        "cluster": 6
+    },
+    {
+        "date": "2020-12-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67330/280.street_img_view15fea9fd212fa5.jpg?",
+        "average_temperature": 6.7,
+        "temperature_difference": 7.2,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67316/280.street_img_view15fe9474ceb602.jpg?",
+        "average_temperature": 6.7,
+        "temperature_difference": 7.2,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67343/280.street_img_view15fe935a210295.jpg?20201228095355",
+        "average_temperature": 6.7,
+        "temperature_difference": 7.2,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-28",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67321/280.street_img_view15fe94547af518.jpg?",
+        "average_temperature": 6.7,
+        "temperature_difference": 7.2,
+        "cluster": 5
+    },
+    {
+        "date": "2020-12-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67372/280.street_img_view15fea9771d0762.jpg?",
+        "average_temperature": 0.1,
+        "temperature_difference": 10.5,
+        "cluster": 6
+    },
+    {
+        "date": "2020-12-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67370/280.street_img_view15fea98f9aaa49.jpg?",
+        "average_temperature": 0.1,
+        "temperature_difference": 10.5,
+        "cluster": 6
+    },
+    {
+        "date": "2020-12-29",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67385/280.street_img_view15fea943e15ef9.jpg?",
+        "average_temperature": 0.1,
+        "temperature_difference": 10.5,
+        "cluster": 6
+    },
+    {
+        "date": "2020-12-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67409/280.street_img_view15fed3bd8d823b.jpg?",
+        "average_temperature": -10.9,
+        "temperature_difference": 6.7,
+        "cluster": 3
+    },
+    {
+        "date": "2020-12-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67409/280.street_img_view25fed3bead4a8e.jpg?",
+        "average_temperature": -10.9,
+        "temperature_difference": 6.7,
+        "cluster": 3
+    },
+    {
+        "date": "2020-12-30",
+        "image": "//image.msscdn.net/mfile_s01/_street_images/67407/280.street_img_view15fec13f137055.jpg?",
+        "average_temperature": -10.9,
+        "temperature_difference": 6.7,
+        "cluster": 3
+    }
+]
