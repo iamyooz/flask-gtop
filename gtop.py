@@ -1,12 +1,12 @@
 import json
 from flask import Flask, request, jsonify
-from flask_cors import CORS
+from flask_cors import CORS, cross_origin 
 import joblib
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, supports_credentials=True, origins="localhost:3000")
 
 kmeans_model = joblib.load('gtop_kmeans_model.pkl')
 scaler = None
@@ -23,7 +23,8 @@ def load_scaler_and_data():
         scaler = StandardScaler()
         scaler.fit(temperature_data)
 
-@app.route('/', methods=['POST'])
+@app.route('/gtop', methods=['POST'])
+@cross_origin()
 def get_cluster_images():
     global scaler, learning_data
 
